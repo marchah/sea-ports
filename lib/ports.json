@@ -13,7 +13,8 @@
     "timezone": "Asia/Dubai",
     "unlocs": [
       "AEAJM"
-    ]
+    ],
+    "code": "52000"
   },
   "AEAUH": {
     "name": "Abu Dhabi",
@@ -128,7 +129,8 @@
     "timezone": "Asia/Dubai",
     "unlocs": [
       "AEPRA"
-    ]
+    ],
+    "code": "52005"
   },
   "AEQIW": {
     "name": "Umm al Qaiwain",
@@ -160,7 +162,8 @@
     "timezone": "Asia/Dubai",
     "unlocs": [
       "AERKT"
-    ]
+    ],
+    "code": "52000"
   },
   "AERUW": {
     "name": "Ar Ruways",
@@ -192,7 +195,8 @@
     "timezone": "Asia/Dubai",
     "unlocs": [
       "AESHJ"
-    ]
+    ],
+    "code": "52070"
   },
   "AGANU": {
     "name": "Antigua",
@@ -269,7 +273,8 @@
     "timezone": "Europe/Tirane",
     "unlocs": [
       "ALDRZ"
-    ]
+    ],
+    "code": "48109"
   },
   "ANBON": {
     "name": "Bonaire",
@@ -561,7 +566,8 @@
     "timezone": "America/Cordoba",
     "unlocs": [
       "ARCVI"
-    ]
+    ],
+    "code": "35703"
   },
   "ARDDC": {
     "name": "Delta Dock",
@@ -626,7 +632,8 @@
     "timezone": "America/Cordoba",
     "unlocs": [
       "ARNEC"
-    ]
+    ],
+    "code": "35741"
   },
   "AROYA": {
     "name": "Goya",
@@ -658,7 +665,8 @@
     "timezone": "America/Cordoba",
     "unlocs": [
       "ARPMY"
-    ]
+    ],
+    "code": "35740"
   },
   "ARPUD": {
     "name": "Puerto Deseado",
@@ -707,7 +715,8 @@
     "timezone": "America/Cordoba",
     "unlocs": [
       "ARRGL"
-    ]
+    ],
+    "code": "35700"
   },
   "ARRIC": {
     "name": "Rio Cullen",
@@ -789,7 +798,8 @@
     "timezone": "America/Cordoba",
     "unlocs": [
       "ARSLO"
-    ]
+    ],
+    "code": "35779"
   },
   "ARSNS": {
     "name": "San Nicolas de los Arroyos",
@@ -838,7 +848,8 @@
     "timezone": "America/Cordoba",
     "unlocs": [
       "ARUSH"
-    ]
+    ],
+    "code": "35700"
   },
   "ARZAE": {
     "name": "Zarate",
@@ -854,7 +865,8 @@
     "timezone": "America/Cordoba",
     "unlocs": [
       "ARZAE"
-    ]
+    ],
+    "code": "35796"
   },
   "ASPPG": {
     "name": "Pago Pago",
@@ -1051,7 +1063,8 @@
     "timezone": "Australia/Brisbane",
     "unlocs": [
       "AUCNS"
-    ]
+    ],
+    "code": "60200"
   },
   "AUDPO": {
     "name": "Devonport",
@@ -1067,7 +1080,8 @@
     "timezone": "Australia/Melbourne",
     "unlocs": [
       "AUDPO"
-    ]
+    ],
+    "code": "60299"
   },
   "AUDRW": {
     "name": "Darwin",
@@ -1100,7 +1114,8 @@
     "timezone": "Australia/Perth",
     "unlocs": [
       "AUFRE"
-    ]
+    ],
+    "code": "60222"
   },
   "AUGLT": {
     "name": "Gladstone",
@@ -1116,7 +1131,8 @@
     "timezone": "Australia/Brisbane",
     "unlocs": [
       "AUGLT"
-    ]
+    ],
+    "code": "60231"
   },
   "AUGOV": {
     "name": "Gove",
@@ -1149,7 +1165,8 @@
     "timezone": "Australia/Melbourne",
     "unlocs": [
       "AUHBA"
-    ]
+    ],
+    "code": "60295"
   },
   "AUHPT": {
     "name": "Hay Point",
@@ -1165,7 +1182,8 @@
     "timezone": "Australia/Brisbane",
     "unlocs": [
       "AUHPT"
-    ]
+    ],
+    "code": "60212"
   },
   "AULST": {
     "name": "Launceston",
@@ -1198,7 +1216,8 @@
     "timezone": "Australia/Hobart",
     "unlocs": [
       "AUMEL"
-    ]
+    ],
+    "code": "60237"
   },
   "AUNLK": {
     "timezone": "Australia/Melbourne",
@@ -1230,7 +1249,8 @@
     "timezone": "Australia/Sydney",
     "unlocs": [
       "AUNTL"
-    ]
+    ],
+    "code": "60240"
   },
   "AUPAE": {
     "name": "Port Adelaide",
@@ -1262,7 +1282,8 @@
     "timezone": "Australia/Perth",
     "unlocs": [
       "AUPHE"
-    ]
+    ],
+    "code": "60219"
   },
   "AUPKL": {
     "name": "Port Kembla",
@@ -1278,7 +1299,8 @@
     "timezone": "Australia/Sydney",
     "unlocs": [
       "AUPKL"
-    ]
+    ],
+    "code": "60252"
   },
   "AUSYD": {
     "name": "Sydney",
@@ -1294,7 +1316,8 @@
     "timezone": "Australia/Sydney",
     "unlocs": [
       "AUSYD"
-    ]
+    ],
+    "code": "60267"
   },
   "AUTSV": {
     "name": "Townsville",
@@ -1310,7 +1333,8 @@
     "timezone": "Australia/Brisbane",
     "unlocs": [
       "AUTSV"
-    ]
+    ],
+    "code": "60273"
   },
   "AUWEI": {
     "name": "Weipa",
@@ -1357,7 +1381,8 @@
     "timezone": "America/Aruba",
     "unlocs": [
       "AWORJ"
-    ]
+    ],
+    "code": "27701"
   },
   "AZBAK": {
     "name": "Baku",
@@ -1455,7 +1480,8 @@
     "timezone": "Asia/Dhaka",
     "unlocs": [
       "BDMGL"
-    ]
+    ],
+    "code": "53800"
   },
   "BEANR": {
     "name": "Antwerpen",
@@ -1519,7 +1545,8 @@
     "timezone": "Europe/Brussels",
     "unlocs": [
       "BEGNE"
-    ]
+    ],
+    "code": "42331"
   },
   "BEOST": {
     "name": "Oostende (Ostend)",
@@ -1535,7 +1562,8 @@
     "timezone": "Europe/Brussels",
     "unlocs": [
       "BEOST"
-    ]
+    ],
+    "code": "42351"
   },
   "BEZEE": {
     "name": "Zeebrugge",
@@ -1584,7 +1612,8 @@
     "timezone": "Europe/Sofia",
     "unlocs": [
       "BGBOJ"
-    ]
+    ],
+    "code": "48702"
   },
   "BGVAR": {
     "name": "Varna",
@@ -1660,7 +1689,8 @@
     "timezone": "Asia/Bahrain",
     "unlocs": [
       "BHMAN"
-    ]
+    ],
+    "code": "52502"
   },
   "BHSIT": {
     "name": "Sitrah",
@@ -1676,7 +1706,8 @@
     "timezone": "Asia/Bahrain",
     "unlocs": [
       "BHSIT"
-    ]
+    ],
+    "code": "52500"
   },
   "BJCOO": {
     "name": "Cotonou",
@@ -1709,7 +1740,8 @@
     "timezone": "Atlantic/Bermuda",
     "unlocs": [
       "BMBDA"
-    ]
+    ],
+    "code": "23201"
   },
   "BMSOU": {
     "timezone": "Europe/London",
@@ -1838,7 +1870,8 @@
     "timezone": "America/Fortaleza",
     "unlocs": [
       "BRARE"
-    ]
+    ],
+    "code": "35198"
   },
   "BRBEL": {
     "name": "Belem",
@@ -1854,7 +1887,8 @@
     "timezone": "America/Boa_Vista",
     "unlocs": [
       "BRBEL"
-    ]
+    ],
+    "code": "35121"
   },
   "BRCDO": {
     "name": "Cabedelo",
@@ -1903,7 +1937,8 @@
     "timezone": "America/Fortaleza",
     "unlocs": [
       "BRFOR"
-    ]
+    ],
+    "code": "35133"
   },
   "BRIBB": {
     "name": "Imbituba",
@@ -2120,7 +2155,8 @@
     "timezone": "America/Sao_Paulo",
     "unlocs": [
       "BRPCL"
-    ]
+    ],
+    "code": "35199"
   },
   "BRPEC": {
     "name": "Pecem",
@@ -2153,7 +2189,8 @@
     "timezone": "America/Sao_Paulo",
     "unlocs": [
       "BRPNG"
-    ]
+    ],
+    "code": "35159"
   },
   "BRPNN": {
     "timezone": "America/Fortaleza",
@@ -2185,7 +2222,8 @@
     "timezone": "America/Sao_Paulo",
     "unlocs": [
       "BRPOA"
-    ]
+    ],
+    "code": "35167"
   },
   "BRREC": {
     "name": "Recife",
@@ -2201,7 +2239,8 @@
     "timezone": "America/Fortaleza",
     "unlocs": [
       "BRREC"
-    ]
+    ],
+    "code": "35169"
   },
   "BRRIG": {
     "name": "Rio Grande",
@@ -2217,7 +2256,8 @@
     "timezone": "America/Sao_Paulo",
     "unlocs": [
       "BRRIG"
-    ]
+    ],
+    "code": "35173"
   },
   "BRRIO": {
     "name": "Rio de Janeiro",
@@ -2233,7 +2273,8 @@
     "timezone": "America/Sao_Paulo",
     "unlocs": [
       "BRRIO"
-    ]
+    ],
+    "code": "35171"
   },
   "BRSAL": {
     "timezone": "America/Sao_Paulo",
@@ -2348,7 +2389,8 @@
     "timezone": "America/Boa_Vista",
     "unlocs": [
       "BRSTM"
-    ]
+    ],
+    "code": "35198"
   },
   "BRSUA": {
     "name": "Suape",
@@ -2397,7 +2439,8 @@
     "timezone": "America/Fortaleza",
     "unlocs": [
       "BRVIC"
-    ]
+    ],
+    "code": "35121"
   },
   "BRVIX": {
     "name": "Vitoria",
@@ -2413,7 +2456,8 @@
     "timezone": "America/Sao_Paulo",
     "unlocs": [
       "BRVIX"
-    ]
+    ],
+    "code": "35195"
   },
   "BRVLC": {
     "name": "Vila do Conde",
@@ -2428,7 +2472,8 @@
     "regions": [],
     "unlocs": [
       "BRVLC"
-    ]
+    ],
+    "code": "35121"
   },
   "BSFPO": {
     "name": "Freeport, Grand Bahama",
@@ -3052,7 +3097,8 @@
     "timezone": "America/Toronto",
     "unlocs": [
       "CAQUE"
-    ]
+    ],
+    "code": "80109"
   },
   "CASAK": {
     "name": "Saskatoon",
@@ -3389,7 +3435,8 @@
     "timezone": "Africa/Brazzaville",
     "unlocs": [
       "CGPNR"
-    ]
+    ],
+    "code": "76600"
   },
   "CIABJ": {
     "name": "Abidjan",
@@ -3504,7 +3551,8 @@
     "timezone": "Europe/Madrid",
     "unlocs": [
       "CLCAP"
-    ]
+    ],
+    "code": "33780"
   },
   "CLCBC": {
     "name": "Calbuco",
@@ -3552,7 +3600,8 @@
     "timezone": "America/Santiago",
     "unlocs": [
       "CLCHB"
-    ]
+    ],
+    "code": "33700"
   },
   "CLCLD": {
     "name": "Caldera",
@@ -3585,7 +3634,8 @@
     "timezone": "America/Santiago",
     "unlocs": [
       "CLCNL"
-    ]
+    ],
+    "code": "33700"
   },
   "CLCNR": {
     "name": "Chanaral",
@@ -3601,7 +3651,8 @@
     "timezone": "America/Santiago",
     "unlocs": [
       "CLCNR"
-    ]
+    ],
+    "code": "33716"
   },
   "CLCNX": {
     "name": "Cabo Negro",
@@ -3650,7 +3701,8 @@
     "timezone": "America/Santiago",
     "unlocs": [
       "CLCRR"
-    ]
+    ],
+    "code": "33700"
   },
   "CLDCH": {
     "name": "Dalcahue",
@@ -3699,7 +3751,8 @@
     "timezone": "America/Santiago",
     "unlocs": [
       "CLHSO"
-    ]
+    ],
+    "code": "33739"
   },
   "CLIPC": {
     "name": "Isla de Pascua",
@@ -3763,7 +3816,8 @@
     "timezone": "America/Santiago",
     "unlocs": [
       "CLLOS"
-    ]
+    ],
+    "code": "33700"
   },
   "CLLQN": {
     "name": "Lirquen",
@@ -3907,7 +3961,8 @@
     "timezone": "America/Santiago",
     "unlocs": [
       "CLPMC"
-    ]
+    ],
+    "code": "33700"
   },
   "CLPNT": {
     "name": "Puerto Natales",
@@ -3938,7 +3993,8 @@
     "timezone": "America/Santiago",
     "unlocs": [
       "CLPPC"
-    ]
+    ],
+    "code": "33700"
   },
   "CLPPD": {
     "name": "Punta Padrones",
@@ -3984,7 +4040,8 @@
     "timezone": "America/Santiago",
     "unlocs": [
       "CLPTI"
-    ]
+    ],
+    "code": "33765"
   },
   "CLPUQ": {
     "name": "Punta Arenas",
@@ -4033,7 +4090,8 @@
     "timezone": "America/Santiago",
     "unlocs": [
       "CLQTV"
-    ]
+    ],
+    "code": "33775"
   },
   "CLSAI": {
     "name": "San Antonio",
@@ -4049,7 +4107,8 @@
     "timezone": "America/Santiago",
     "unlocs": [
       "CLSAI"
-    ]
+    ],
+    "code": "33779"
   },
   "CLSVE": {
     "name": "San Vicente",
@@ -4065,7 +4124,8 @@
     "timezone": "America/Santiago",
     "unlocs": [
       "CLSVE"
-    ]
+    ],
+    "code": "33780"
   },
   "CLTAL": {
     "name": "Talcahuano",
@@ -4081,7 +4141,8 @@
     "timezone": "America/Santiago",
     "unlocs": [
       "CLTAL"
-    ]
+    ],
+    "code": "33781"
   },
   "CLTHO": {
     "name": "Talcahuano",
@@ -4097,7 +4158,8 @@
     "timezone": "America/Santiago",
     "unlocs": [
       "CLTHO"
-    ]
+    ],
+    "code": "33781"
   },
   "CLTOM": {
     "name": "Tome",
@@ -4113,7 +4175,8 @@
     "timezone": "America/Santiago",
     "unlocs": [
       "CLTOM"
-    ]
+    ],
+    "code": "33700"
   },
   "CLTOQ": {
     "name": "Tocopilla",
@@ -4129,7 +4192,8 @@
     "timezone": "America/Santiago",
     "unlocs": [
       "CLTOQ"
-    ]
+    ],
+    "code": "33788"
   },
   "CLTTC": {
     "name": "Taltal",
@@ -4145,7 +4209,8 @@
     "timezone": "America/Santiago",
     "unlocs": [
       "CLTTC"
-    ]
+    ],
+    "code": "33700"
   },
   "CLVAP": {
     "name": "Valparaiso",
@@ -4161,7 +4226,8 @@
     "timezone": "America/Santiago",
     "unlocs": [
       "CLVAP"
-    ]
+    ],
+    "code": "33797"
   },
   "CLWCA": {
     "name": "Castro",
@@ -4241,7 +4307,8 @@
     "timezone": "America/Santiago",
     "unlocs": [
       "CLZUD"
-    ]
+    ],
+    "code": "33700"
   },
   "CMDLA": {
     "name": "Douala",
@@ -4257,7 +4324,8 @@
     "timezone": "Africa/Douala",
     "unlocs": [
       "CMDLA"
-    ]
+    ],
+    "code": "74201"
   },
   "CNBAY": {
     "name": "Bayuquan",
@@ -4422,7 +4490,8 @@
     "timezone": "Asia/Shanghai",
     "unlocs": [
       "CNCWN"
-    ]
+    ],
+    "code": "57067"
   },
   "CNDAA": {
     "name": "Dagang",
@@ -4455,7 +4524,8 @@
     "unlocs": [
       "CNDLC",
       "CNDAL"
-    ]
+    ],
+    "code": "57051"
   },
   "CNDCB": {
     "city": "Da Chan Bay",
@@ -4466,7 +4536,8 @@
     "regions": [],
     "unlocs": [
       "CNDCB"
-    ]
+    ],
+    "code": "57045"
   },
   "CNDGG": {
     "name": "Dongguan Port",
@@ -4482,7 +4553,8 @@
     "timezone": "Asia/Shanghai",
     "unlocs": [
       "CNDGG"
-    ]
+    ],
+    "code": "57056"
   },
   "CNDLC": {
     "name": "Dalian",
@@ -4499,7 +4571,8 @@
     "unlocs": [
       "CNDLC",
       "CNDAL"
-    ]
+    ],
+    "code": "57051"
   },
   "CNDOU": {
     "name": "Doumen Port",
@@ -4531,7 +4604,8 @@
     "timezone": "Asia/Shanghai",
     "unlocs": [
       "CNFAN"
-    ]
+    ],
+    "code": "57044"
   },
   "CNFNG": {
     "name": "Fuyong",
@@ -4789,7 +4863,8 @@
     "timezone": "Asia/Shanghai",
     "unlocs": [
       "CNHUA"
-    ]
+    ],
+    "code": "57072"
   },
   "CNHUD": {
     "name": "Huludao Port",
@@ -4821,7 +4896,8 @@
     "timezone": "Asia/Shanghai",
     "unlocs": [
       "CNHUI"
-    ]
+    ],
+    "code": "57022"
   },
   "CNJGZ": {
     "name": "Jingzhou",
@@ -4853,7 +4929,8 @@
     "timezone": "Asia/Shanghai",
     "unlocs": [
       "CNJIA"
-    ]
+    ],
+    "code": "57080"
   },
   "CNJIN": {
     "name": "Jian",
@@ -4901,7 +4978,8 @@
     "timezone": "Asia/Shanghai",
     "unlocs": [
       "CNJMN"
-    ]
+    ],
+    "code": "57000"
   },
   "CNJNZ": {
     "name": "Jinzhou Port",
@@ -4949,7 +5027,8 @@
     "timezone": "Asia/Shanghai",
     "unlocs": [
       "CNJZU"
-    ]
+    ],
+    "code": "57077"
   },
   "CNKHN": {
     "name": "Nanchang",
@@ -5256,7 +5335,8 @@
     "timezone": "Asia/Shanghai",
     "unlocs": [
       "CNNKG"
-    ]
+    ],
+    "code": "57014"
   },
   "CNNNG": {
     "name": "Nanning",
@@ -5288,7 +5368,8 @@
     "timezone": "Asia/Shanghai",
     "unlocs": [
       "CNNSA"
-    ]
+    ],
+    "code": "57073"
   },
   "CNNTG": {
     "name": "Nantong Port",
@@ -5304,7 +5385,8 @@
     "timezone": "Asia/Shanghai",
     "unlocs": [
       "CNNTG"
-    ]
+    ],
+    "code": "57074"
   },
   "CNPNY": {
     "name": "Shiqiao",
@@ -5401,7 +5483,8 @@
     "timezone": "Asia/Shanghai",
     "unlocs": [
       "CNQZJ"
-    ]
+    ],
+    "code": "57071"
   },
   "CNROQ": {
     "name": "Rongqi Port",
@@ -5433,7 +5516,8 @@
     "timezone": "Asia/Shanghai",
     "unlocs": [
       "CNRZH"
-    ]
+    ],
+    "code": "57024"
   },
   "CNSBU": {
     "name": "Sanbu Port",
@@ -5482,7 +5566,8 @@
     "unlocs": [
       "CNSHA",
       "CNSGH"
-    ]
+    ],
+    "code": "57035"
   },
   "CNSHA": {
     "name": "Shanghai",
@@ -5499,7 +5584,8 @@
     "unlocs": [
       "CNSHA",
       "CNSGH"
-    ]
+    ],
+    "code": "57035"
   },
   "CNSHK": {
     "name": "Shekou Port",
@@ -5515,7 +5601,8 @@
     "timezone": "Asia/Shanghai",
     "unlocs": [
       "CNSHK"
-    ]
+    ],
+    "code": "57018"
   },
   "CNSHP": {
     "name": "Qinhuangdao Port",
@@ -5681,7 +5768,8 @@
     "timezone": "Asia/Shanghai",
     "unlocs": [
       "CNTAG"
-    ]
+    ],
+    "code": "57038"
   },
   "CNTAO": {
     "name": "Qingdao",
@@ -5764,7 +5852,8 @@
     "timezone": "Asia/Shanghai",
     "unlocs": [
       "CNTXG"
-    ]
+    ],
+    "code": "57043"
   },
   "CNTZO": {
     "name": "Taizhou",
@@ -5812,7 +5901,8 @@
     "timezone": "Asia/Shanghai",
     "unlocs": [
       "CNWEI"
-    ]
+    ],
+    "code": "57000"
   },
   "CNWHI": {
     "name": "Wuhu Port",
@@ -5828,7 +5918,8 @@
     "timezone": "Asia/Shanghai",
     "unlocs": [
       "CNWHI"
-    ]
+    ],
+    "code": "57000"
   },
   "CNWNZ": {
     "name": "Wenzhou",
@@ -5860,7 +5951,8 @@
     "timezone": "Asia/Shanghai",
     "unlocs": [
       "CNWUH"
-    ]
+    ],
+    "code": "57013"
   },
   "CNXAB": {
     "name": "Xinfeng",
@@ -5893,7 +5985,8 @@
     "unlocs": [
       "CNXMN",
       "CNXAM"
-    ]
+    ],
+    "code": "57069"
   },
   "CNXGA": {
     "name": "Xingang",
@@ -5910,7 +6003,8 @@
     "unlocs": [
       "CNXGG",
       "CNXGA"
-    ]
+    ],
+    "code": "57017"
   },
   "CNXGG": {
     "name": "Xingang",
@@ -5927,7 +6021,8 @@
     "unlocs": [
       "CNXGG",
       "CNXGA"
-    ]
+    ],
+    "code": "57017"
   },
   "CNXIL": {
     "name": "Xiaolan",
@@ -5992,7 +6087,8 @@
     "unlocs": [
       "CNXMN",
       "CNXAM"
-    ]
+    ],
+    "code": "57069"
   },
   "CNYAN": {
     "name": "Yangshan",
@@ -6008,7 +6104,8 @@
     "timezone": "Asia/Shanghai",
     "unlocs": [
       "CNYAN"
-    ]
+    ],
+    "code": "57037"
   },
   "CNYIC": {
     "name": "Yichang",
@@ -6040,7 +6137,8 @@
     "timezone": "Asia/Shanghai",
     "unlocs": [
       "CNYIK"
-    ]
+    ],
+    "code": "57053"
   },
   "CNYJI": {
     "name": "Yangjiang Port",
@@ -6089,7 +6187,8 @@
     "unlocs": [
       "CNYNT",
       "CNYTG"
-    ]
+    ],
+    "code": "57055"
   },
   "CNYPG": {
     "name": "Yangpu Port",
@@ -6138,7 +6237,8 @@
     "unlocs": [
       "CNYNT",
       "CNYTG"
-    ]
+    ],
+    "code": "57055"
   },
   "CNYTN": {
     "name": "Yantian Port",
@@ -6219,7 +6319,8 @@
     "timezone": "Asia/Shanghai",
     "unlocs": [
       "CNZHE"
-    ]
+    ],
+    "code": "57019"
   },
   "CNZJG": {
     "name": "Zhangjiagang",
@@ -6239,7 +6340,8 @@
     "timezone": "Asia/Shanghai",
     "unlocs": [
       "CNZJG"
-    ]
+    ],
+    "code": "57075"
   },
   "CNZOS": {
     "name": "Zhoushan Port",
@@ -6287,7 +6389,8 @@
     "timezone": "Asia/Shanghai",
     "unlocs": [
       "CNZSN"
-    ]
+    ],
+    "code": "57079"
   },
   "CNZUH": {
     "name": "Zhuhai Port",
@@ -6303,7 +6406,8 @@
     "timezone": "Asia/Shanghai",
     "unlocs": [
       "CNZUH"
-    ]
+    ],
+    "code": "57077"
   },
   "COBAQ": {
     "name": "Barranquilla",
@@ -6387,7 +6491,8 @@
     "timezone": "America/Bogota",
     "unlocs": [
       "COSMR"
-    ]
+    ],
+    "code": "30140"
   },
   "COTCO": {
     "name": "Tumaco",
@@ -6420,7 +6525,8 @@
     "timezone": "America/Costa_Rica",
     "unlocs": [
       "CRCAL"
-    ]
+    ],
+    "code": "22361"
   },
   "CRGLF": {
     "name": "Golfito",
@@ -6453,7 +6559,8 @@
     "timezone": "America/Costa_Rica",
     "unlocs": [
       "CRLIO"
-    ]
+    ],
+    "code": "22313"
   },
   "CRMOB": {
     "name": "Moin",
@@ -6469,7 +6576,8 @@
     "timezone": "America/Costa_Rica",
     "unlocs": [
       "CRMOB"
-    ]
+    ],
+    "code": "22315"
   },
   "CRPAS": {
     "name": "Puntarenas",
@@ -6535,7 +6643,8 @@
     "timezone": "America/Havana",
     "unlocs": [
       "CUHAV"
-    ]
+    ],
+    "code": "23944"
   },
   "CUMAR": {
     "name": "Mariel",
@@ -6551,7 +6660,8 @@
     "timezone": "America/Havana",
     "unlocs": [
       "CUMAR"
-    ]
+    ],
+    "code": "23900"
   },
   "CUQMA": {
     "name": "Matanzas",
@@ -6567,7 +6677,8 @@
     "timezone": "America/Havana",
     "unlocs": [
       "CUQMA"
-    ]
+    ],
+    "code": "23900"
   },
   "CUSCU": {
     "name": "Santiago de Cuba",
@@ -6583,7 +6694,8 @@
     "timezone": "America/Havana",
     "unlocs": [
       "CUSCU"
-    ]
+    ],
+    "code": "23900"
   },
   "CVMIN": {
     "name": "Mindelo",
@@ -6599,7 +6711,8 @@
     "timezone": "Atlantic/Cape_Verde",
     "unlocs": [
       "CVMIN"
-    ]
+    ],
+    "code": "76465"
   },
   "CVPAL": {
     "name": "Palmeira",
@@ -6631,7 +6744,8 @@
     "timezone": "Atlantic/Cape_Verde",
     "unlocs": [
       "CVRAI"
-    ]
+    ],
+    "code": "76475"
   },
   "CYLMS": {
     "name": "Limassol",
@@ -6927,7 +7041,8 @@
     "timezone": "Europe/Berlin",
     "unlocs": [
       "DEFLF"
-    ]
+    ],
+    "code": "42800"
   },
   "DEHAM": {
     "name": "Hamburg",
@@ -6993,7 +7108,8 @@
     "timezone": "Europe/Berlin",
     "unlocs": [
       "DEKEL"
-    ]
+    ],
+    "code": "42825"
   },
   "DEKGU": {
     "timezone": "Europe/Berlin",
@@ -7205,7 +7321,8 @@
     "unlocs": [
       "DJJIB",
       "DJPOD"
-    ]
+    ],
+    "code": "77701"
   },
   "DJPOD": {
     "name": "Djibouti",
@@ -7222,7 +7339,8 @@
     "unlocs": [
       "DJJIB",
       "DJPOD"
-    ]
+    ],
+    "code": "77701"
   },
   "DKAAL": {
     "name": "Aalborg",
@@ -7272,7 +7390,8 @@
     "timezone": "Europe/Copenhagen",
     "unlocs": [
       "DKASN"
-    ]
+    ],
+    "code": "40900"
   },
   "DKCPH": {
     "name": "Kobenhavn",
@@ -7288,7 +7407,8 @@
     "timezone": "Europe/Copenhagen",
     "unlocs": [
       "DKCPH"
-    ]
+    ],
+    "code": "40948"
   },
   "DKEBJ": {
     "name": "Esbjerg",
@@ -7321,7 +7441,8 @@
     "timezone": "Europe/Copenhagen",
     "unlocs": [
       "DKFRC"
-    ]
+    ],
+    "code": "40921"
   },
   "DKHIR": {
     "name": "Hirtshals",
@@ -7353,7 +7474,8 @@
     "timezone": "Europe/Copenhagen",
     "unlocs": [
       "DKHLS"
-    ]
+    ],
+    "code": "40900"
   },
   "DKHSB": {
     "name": "Holstebro",
@@ -7385,7 +7507,8 @@
     "timezone": "Europe/Copenhagen",
     "unlocs": [
       "DKKAL"
-    ]
+    ],
+    "code": "40940"
   },
   "DKKTD": {
     "name": "Kerteminde",
@@ -7434,7 +7557,8 @@
     "timezone": "Europe/Copenhagen",
     "unlocs": [
       "DKODE"
-    ]
+    ],
+    "code": "40961"
   },
   "DKRUG": {
     "name": "Rungsted",
@@ -7466,7 +7590,8 @@
     "timezone": "Europe/Copenhagen",
     "unlocs": [
       "DKSKA"
-    ]
+    ],
+    "code": "40900"
   },
   "DKSVE": {
     "name": "Svendborg",
@@ -7482,7 +7607,8 @@
     "timezone": "Europe/Copenhagen",
     "unlocs": [
       "DKSVE"
-    ]
+    ],
+    "code": "40928"
   },
   "DMRSU": {
     "name": "Roseau",
@@ -7531,7 +7657,8 @@
     "timezone": "America/Santo_Domingo",
     "unlocs": [
       "DOHAI"
-    ]
+    ],
+    "code": "24741"
   },
   "DOMAN": {
     "name": "Manzanillo",
@@ -7547,7 +7674,8 @@
     "timezone": "America/Santo_Domingo",
     "unlocs": [
       "DOMAN"
-    ]
+    ],
+    "code": "24745"
   },
   "DOPOP": {
     "name": "Puerto Plata",
@@ -7580,7 +7708,8 @@
     "timezone": "America/Santo_Domingo",
     "unlocs": [
       "DOSDQ"
-    ]
+    ],
+    "code": "24737"
   },
   "DOSPM": {
     "name": "San Pedro de Macoris",
@@ -7612,7 +7741,8 @@
     "timezone": "Africa/Addis_Ababa",
     "unlocs": [
       "DZAAE"
-    ]
+    ],
+    "code": "72123"
   },
   "DZALG": {
     "name": "Alger (Algiers)",
@@ -7628,7 +7758,8 @@
     "timezone": "Africa/Algiers",
     "unlocs": [
       "DZALG"
-    ]
+    ],
+    "code": "72101"
   },
   "DZBJA": {
     "name": "Bejaia (ex Bougie)",
@@ -7644,7 +7775,8 @@
     "timezone": "Africa/Algiers",
     "unlocs": [
       "DZBJA"
-    ]
+    ],
+    "code": "72107"
   },
   "DZGHA": {
     "name": "Ghardaia",
@@ -7676,7 +7808,8 @@
     "timezone": "Africa/Algiers",
     "unlocs": [
       "DZMOS"
-    ]
+    ],
+    "code": "72100"
   },
   "DZORN": {
     "name": "Oran",
@@ -7708,7 +7841,8 @@
     "timezone": "Africa/Algiers",
     "unlocs": [
       "DZSKI"
-    ]
+    ],
+    "code": "72189"
   },
   "ECBHA": {
     "name": "Bahia de Caraquez",
@@ -7774,7 +7908,8 @@
     "timezone": "America/Guayaquil",
     "unlocs": [
       "ECGYE"
-    ]
+    ],
+    "code": "33131"
   },
   "ECLLD": {
     "name": "La Libertad",
@@ -7840,7 +7975,8 @@
     "timezone": "America/Guayaquil",
     "unlocs": [
       "ECPBO"
-    ]
+    ],
+    "code": "33159"
   },
   "EEHLD": {
     "timezone": "Europe/Tallinn",
@@ -7889,7 +8025,8 @@
     "timezone": "Europe/Tallinn",
     "unlocs": [
       "EETLL"
-    ]
+    ],
+    "code": "44701"
   },
   "EGAIS": {
     "name": "Ain Sukhna",
@@ -7954,7 +8091,8 @@
     "timezone": "Africa/Cairo",
     "unlocs": [
       "EGEDK"
-    ]
+    ],
+    "code": "72901"
   },
   "EGPSD": {
     "name": "Port Said",
@@ -7970,7 +8108,8 @@
     "timezone": "Africa/Cairo",
     "unlocs": [
       "EGPSD"
-    ]
+    ],
+    "code": "72913"
   },
   "EGSOK": {
     "name": "Sokhna Port",
@@ -8017,7 +8156,8 @@
     "timezone": "Africa/Asmera",
     "unlocs": [
       "ERASA"
-    ]
+    ],
+    "code": "77405"
   },
   "ERMSW": {
     "name": "Massawa (Mitsiwa)",
@@ -8183,7 +8323,8 @@
     "timezone": "Europe/Madrid",
     "unlocs": [
       "ESCAD"
-    ]
+    ],
+    "code": "47035"
   },
   "ESCAR": {
     "name": "Cartagena",
@@ -8199,7 +8340,8 @@
     "timezone": "Europe/Madrid",
     "unlocs": [
       "ESCAR"
-    ]
+    ],
+    "code": "47063"
   },
   "ESCAS": {
     "name": "Castellon de la Plana",
@@ -8215,7 +8357,8 @@
     "timezone": "Europe/Madrid",
     "unlocs": [
       "ESCAS"
-    ]
+    ],
+    "code": "47068"
   },
   "ESCEU": {
     "name": "Ceuta",
@@ -8308,7 +8451,8 @@
     "timezone": "Europe/Madrid",
     "unlocs": [
       "ESHUV"
-    ]
+    ],
+    "code": "47044"
   },
   "ESIBZ": {
     "name": "Ibiza",
@@ -8421,7 +8565,8 @@
     "regions": [],
     "unlocs": [
       "ESMLN"
-    ]
+    ],
+    "code": "47095"
   },
   "ESMOT": {
     "name": "Motril",
@@ -8470,7 +8615,8 @@
     "timezone": "Europe/Madrid",
     "unlocs": [
       "ESPAL"
-    ]
+    ],
+    "code": "47065"
   },
   "ESPAS": {
     "name": "Pasajes",
@@ -8486,7 +8632,8 @@
     "timezone": "Europe/Madrid",
     "unlocs": [
       "ESPAS"
-    ]
+    ],
+    "code": "47027"
   },
   "ESPMI": {
     "name": "Palma de Mallorca",
@@ -8585,7 +8732,8 @@
     "timezone": "Europe/Madrid",
     "unlocs": [
       "ESSVQ"
-    ]
+    ],
+    "code": "47039"
   },
   "ESTAR": {
     "name": "Tarragona",
@@ -8601,7 +8749,8 @@
     "timezone": "Europe/Madrid",
     "unlocs": [
       "ESTAR"
-    ]
+    ],
+    "code": "47092"
   },
   "ESTBZ": {
     "timezone": "Europe/Madrid",
@@ -8633,7 +8782,8 @@
     "timezone": "Atlantic/Canary",
     "unlocs": [
       "ESTCI"
-    ]
+    ],
+    "code": "47073"
   },
   "ESTOT": {
     "name": "Tortosa",
@@ -8715,7 +8865,8 @@
     "timezone": "Europe/Helsinki",
     "unlocs": [
       "FIHEL"
-    ]
+    ],
+    "code": "40525"
   },
   "FIHKO": {
     "name": "Hango (Hanko)",
@@ -8731,7 +8882,8 @@
     "timezone": "Europe/Helsinki",
     "unlocs": [
       "FIHKO"
-    ]
+    ],
+    "code": "40523"
   },
   "FIHMN": {
     "name": "Fredrikshamn (Hamina)",
@@ -8747,7 +8899,8 @@
     "timezone": "Europe/Helsinki",
     "unlocs": [
       "FIHMN"
-    ]
+    ],
+    "code": "40520"
   },
   "FIKEM": {
     "name": "Kemi/Tornea (Kemi/Tornio)",
@@ -8763,7 +8916,8 @@
     "timezone": "Europe/Helsinki",
     "unlocs": [
       "FIKEM"
-    ]
+    ],
+    "code": "40543"
   },
   "FIKOK": {
     "name": "Karleby (Kokkola)",
@@ -8779,7 +8933,8 @@
     "timezone": "Europe/Helsinki",
     "unlocs": [
       "FIKOK"
-    ]
+    ],
+    "code": "40500"
   },
   "FIKTK": {
     "name": "Kotka",
@@ -8795,7 +8950,8 @@
     "timezone": "Europe/Helsinki",
     "unlocs": [
       "FIKTK"
-    ]
+    ],
+    "code": "40549"
   },
   "FIMTL": {
     "name": "Mantyluoto",
@@ -8844,7 +9000,8 @@
     "timezone": "Europe/Helsinki",
     "unlocs": [
       "FIOUL"
-    ]
+    ],
+    "code": "40531"
   },
   "FIPOR": {
     "name": "Bjorneborg (Pori)",
@@ -8860,7 +9017,8 @@
     "timezone": "Europe/Helsinki",
     "unlocs": [
       "FIPOR"
-    ]
+    ],
+    "code": "40562"
   },
   "FIRAU": {
     "name": "Rauma (Raumo)",
@@ -8876,7 +9034,8 @@
     "timezone": "Europe/Helsinki",
     "unlocs": [
       "FIRAU"
-    ]
+    ],
+    "code": "40571"
   },
   "FITKU": {
     "name": "Abo (Turku)",
@@ -8892,7 +9051,8 @@
     "timezone": "Europe/Helsinki",
     "unlocs": [
       "FITKU"
-    ]
+    ],
+    "code": "40587"
   },
   "FITOR": {
     "name": "Tornea (Tornio)",
@@ -8908,7 +9068,8 @@
     "timezone": "Europe/Helsinki",
     "unlocs": [
       "FITOR"
-    ]
+    ],
+    "code": "40500"
   },
   "FJLTK": {
     "name": "Lautoka",
@@ -8924,7 +9085,8 @@
     "timezone": "Pacific/Fiji",
     "unlocs": [
       "FJLTK"
-    ]
+    ],
+    "code": "68630"
   },
   "FJSUV": {
     "name": "Suva",
@@ -8940,7 +9102,8 @@
     "timezone": "Pacific/Fiji",
     "unlocs": [
       "FJSUV"
-    ]
+    ],
+    "code": "68628"
   },
   "FKPSY": {
     "name": "Port Stanley",
@@ -8972,7 +9135,8 @@
     "timezone": "Pacific/Ponape",
     "unlocs": [
       "FMPNI"
-    ]
+    ],
+    "code": "68207"
   },
   "FOTHO": {
     "name": "Thorshavn",
@@ -9104,7 +9268,8 @@
     "timezone": "Europe/Paris",
     "unlocs": [
       "FRDKK"
-    ]
+    ],
+    "code": "42727"
   },
   "FRDPE": {
     "name": "Dieppe",
@@ -9169,7 +9334,8 @@
     "regions": [],
     "unlocs": [
       "FRHON"
-    ]
+    ],
+    "code": "42700"
   },
   "FRJAV": {
     "timezone": "Europe/Paris",
@@ -9300,7 +9466,8 @@
     "timezone": "Europe/Paris",
     "unlocs": [
       "FRLTR"
-    ]
+    ],
+    "code": "42700"
   },
   "FRLVE": {
     "name": "Le Verdon-sur-Mer",
@@ -9478,7 +9645,8 @@
     "timezone": "Europe/Paris",
     "unlocs": [
       "FRSET"
-    ]
+    ],
+    "code": "42789"
   },
   "FRSNR": {
     "name": "Saint-Nazaire",
@@ -9510,7 +9678,8 @@
     "timezone": "Europe/Paris",
     "unlocs": [
       "FRTLN"
-    ]
+    ],
+    "code": "42790"
   },
   "FRURO": {
     "name": "Rouen",
@@ -9609,7 +9778,8 @@
     "timezone": "Africa/Libreville",
     "unlocs": [
       "GAPOG"
-    ]
+    ],
+    "code": "75525"
   },
   "GBABD": {
     "name": "Aberdeen",
@@ -9740,7 +9910,8 @@
     "timezone": "Europe/London",
     "unlocs": [
       "GBBOS"
-    ]
+    ],
+    "code": "41398"
   },
   "GBBRK": {
     "name": "Birkenhead",
@@ -9773,7 +9944,8 @@
     "timezone": "Europe/London",
     "unlocs": [
       "GBBRS"
-    ]
+    ],
+    "code": "41211"
   },
   "GBBRT": {
     "name": "Bridlington",
@@ -9886,7 +10058,8 @@
     "timezone": "Europe/London",
     "unlocs": [
       "GBDUN"
-    ]
+    ],
+    "code": "41659"
   },
   "GBDVR": {
     "name": "Dover",
@@ -9919,7 +10092,8 @@
     "timezone": "Europe/London",
     "unlocs": [
       "GBEDI"
-    ]
+    ],
+    "code": "41675"
   },
   "GBEIL": {
     "name": "Sheildaig",
@@ -9946,7 +10120,8 @@
     "timezone": "Europe/London",
     "unlocs": [
       "GBELL"
-    ]
+    ],
+    "code": "41227"
   },
   "GBEON": {
     "timezone": "Europe/London",
@@ -9978,7 +10153,8 @@
     "timezone": "Europe/London",
     "unlocs": [
       "GBFAL"
-    ]
+    ],
+    "code": "41328"
   },
   "GBFAW": {
     "name": "Fawley",
@@ -10011,7 +10187,8 @@
     "timezone": "Europe/London",
     "unlocs": [
       "GBFRB"
-    ]
+    ],
+    "code": "41698"
   },
   "GBFXT": {
     "name": "Felixstowe",
@@ -10059,7 +10236,8 @@
     "timezone": "Europe/London",
     "unlocs": [
       "GBGLW"
-    ]
+    ],
+    "code": "41623"
   },
   "GBGOO": {
     "name": "Goole",
@@ -10126,7 +10304,8 @@
     "timezone": "Europe/London",
     "unlocs": [
       "GBGSY"
-    ]
+    ],
+    "code": "41398"
   },
   "GBGTY": {
     "name": "Great Yarmouth",
@@ -10142,7 +10321,8 @@
     "timezone": "Europe/London",
     "unlocs": [
       "GBGTY"
-    ]
+    ],
+    "code": "41398"
   },
   "GBGVS": {
     "name": "Gravesend",
@@ -10158,7 +10338,8 @@
     "timezone": "Europe/London",
     "unlocs": [
       "GBGVS"
-    ]
+    ],
+    "code": "41398"
   },
   "GBHRW": {
     "name": "Harwich",
@@ -10174,7 +10355,8 @@
     "timezone": "Europe/London",
     "unlocs": [
       "GBHRW"
-    ]
+    ],
+    "code": "41398"
   },
   "GBHUL": {
     "name": "Hull",
@@ -10190,7 +10372,8 @@
     "timezone": "Europe/London",
     "unlocs": [
       "GBHUL"
-    ]
+    ],
+    "code": "41341"
   },
   "GBIMM": {
     "name": "Immingham",
@@ -10223,7 +10406,8 @@
     "timezone": "Europe/London",
     "unlocs": [
       "GBINK"
-    ]
+    ],
+    "code": "41698"
   },
   "GBINV": {
     "name": "Inverness",
@@ -10256,7 +10440,8 @@
     "timezone": "Europe/London",
     "unlocs": [
       "GBIPS"
-    ]
+    ],
+    "code": "41398"
   },
   "GBIRL": {
     "name": "Irlam",
@@ -10288,7 +10473,8 @@
     "timezone": "Europe/London",
     "unlocs": [
       "GBKLN"
-    ]
+    ],
+    "code": "41398"
   },
   "GBLAN": {
     "name": "Lancaster",
@@ -10353,7 +10539,8 @@
     "timezone": "Europe/London",
     "unlocs": [
       "GBLON"
-    ]
+    ],
+    "code": "41352"
   },
   "GBMAL": {
     "name": "Maldon",
@@ -10401,7 +10588,8 @@
     "timezone": "Europe/London",
     "unlocs": [
       "GBMID"
-    ]
+    ],
+    "code": "41355"
   },
   "GBMNS": {
     "timezone": "Europe/London",
@@ -10498,7 +10686,8 @@
     "timezone": "Europe/London",
     "unlocs": [
       "GBNHV"
-    ]
+    ],
+    "code": "41357"
   },
   "GBNLN": {
     "name": "Nelson",
@@ -10530,7 +10719,8 @@
     "timezone": "Europe/London",
     "unlocs": [
       "GBNPT"
-    ]
+    ],
+    "code": "41258"
   },
   "GBPDD": {
     "name": "Pen-Clawdd",
@@ -10557,7 +10747,8 @@
     "timezone": "Europe/London",
     "unlocs": [
       "GBPFT"
-    ]
+    ],
+    "code": "41398"
   },
   "GBPLY": {
     "name": "Plymouth",
@@ -10573,7 +10764,8 @@
     "timezone": "Europe/London",
     "unlocs": [
       "GBPLY"
-    ]
+    ],
+    "code": "41360"
   },
   "GBPME": {
     "name": "Portsmouth",
@@ -10589,7 +10781,8 @@
     "timezone": "Europe/London",
     "unlocs": [
       "GBPME"
-    ]
+    ],
+    "code": "41398"
   },
   "GBPOO": {
     "name": "Poole",
@@ -10605,7 +10798,8 @@
     "timezone": "Europe/London",
     "unlocs": [
       "GBPOO"
-    ]
+    ],
+    "code": "41398"
   },
   "GBPRE": {
     "name": "Preston",
@@ -10638,7 +10832,8 @@
     "timezone": "Europe/London",
     "unlocs": [
       "GBPRU"
-    ]
+    ],
+    "code": "41262"
   },
   "GBPST": {
     "name": "Parkeston Quay",
@@ -10719,7 +10914,8 @@
     "timezone": "Europe/London",
     "unlocs": [
       "GBSHS"
-    ]
+    ],
+    "code": "41370"
   },
   "GBSOU": {
     "name": "Southampton",
@@ -10751,7 +10947,8 @@
     "timezone": "Europe/London",
     "unlocs": [
       "GBSOW"
-    ]
+    ],
+    "code": "41227"
   },
   "GBSSH": {
     "name": "South Shields",
@@ -10816,7 +11013,8 @@
     "timezone": "Europe/London",
     "unlocs": [
       "GBSWA"
-    ]
+    ],
+    "code": "41485"
   },
   "GBTEE": {
     "name": "Teesport",
@@ -10832,7 +11030,8 @@
     "timezone": "Europe/London",
     "unlocs": [
       "GBTEE"
-    ]
+    ],
+    "code": "41377"
   },
   "GBTHP": {
     "name": "Thamesport",
@@ -10848,7 +11047,8 @@
     "timezone": "Europe/London",
     "unlocs": [
       "GBTHP"
-    ]
+    ],
+    "code": "41351"
   },
   "GBTIL": {
     "name": "Tilbury",
@@ -10913,7 +11113,8 @@
     "timezone": "Europe/London",
     "unlocs": [
       "GBWOR"
-    ]
+    ],
+    "code": "41299"
   },
   "GBYVZ": {
     "name": "Stonehouse",
@@ -10978,7 +11179,8 @@
     "timezone": "Asia/Tbilisi",
     "unlocs": [
       "GEPTI"
-    ]
+    ],
+    "code": "46337"
   },
   "GETBS": {
     "name": "Tbilisi",
@@ -11010,7 +11212,8 @@
     "timezone": "America/Cayenne",
     "unlocs": [
       "GFCAY"
-    ]
+    ],
+    "code": "31700"
   },
   "GFDDC": {
     "name": "Degrad des Cannes",
@@ -11043,7 +11246,8 @@
     "timezone": "Africa/Accra",
     "unlocs": [
       "GHTEM"
-    ]
+    ],
+    "code": "74990"
   },
   "GHTKD": {
     "name": "Takoradi",
@@ -11059,7 +11263,8 @@
     "timezone": "Africa/Accra",
     "unlocs": [
       "GHTKD"
-    ]
+    ],
+    "code": "74985"
   },
   "GIGIB": {
     "name": "Gibraltar",
@@ -11108,7 +11313,8 @@
     "timezone": "Africa/Conakry",
     "unlocs": [
       "GNCKY"
-    ]
+    ],
+    "code": "74619"
   },
   "GPBBR": {
     "name": "Basse-Terre",
@@ -11188,7 +11394,8 @@
     "timezone": "Africa/Malabo",
     "unlocs": [
       "GQBSG"
-    ]
+    ],
+    "code": "73800"
   },
   "GQSSG": {
     "name": "Malabo",
@@ -11253,7 +11460,8 @@
     "timezone": "Europe/Athens",
     "unlocs": [
       "GRHER"
-    ]
+    ],
+    "code": "48411"
   },
   "GRKAP": {
     "name": "Kapsalion (Kythira)",
@@ -11280,7 +11488,8 @@
     "timezone": "Europe/Athens",
     "unlocs": [
       "GRPIR"
-    ]
+    ],
+    "code": "48452"
   },
   "GRRHO": {
     "name": "Rhodes",
@@ -11296,7 +11505,8 @@
     "timezone": "Europe/Athens",
     "unlocs": [
       "GRRHO"
-    ]
+    ],
+    "code": "48400"
   },
   "GRSKG": {
     "name": "Thessaloniki",
@@ -11312,7 +11522,8 @@
     "timezone": "Europe/Athens",
     "unlocs": [
       "GRSKG"
-    ]
+    ],
+    "code": "48471"
   },
   "GRVOL": {
     "name": "Volos",
@@ -11328,7 +11539,8 @@
     "timezone": "Europe/Athens",
     "unlocs": [
       "GRVOL"
-    ]
+    ],
+    "code": "48473"
   },
   "GTCHR": {
     "name": "Champerico",
@@ -11344,7 +11556,8 @@
     "timezone": "America/Guatemala",
     "unlocs": [
       "GTCHR"
-    ]
+    ],
+    "code": "20599"
   },
   "GTGUA": {
     "name": "Guatemala City",
@@ -11441,7 +11654,8 @@
     "timezone": "Africa/Bissau",
     "unlocs": [
       "GWOXB"
-    ]
+    ],
+    "code": "76489"
   },
   "GYGEO": {
     "name": "Georgetown",
@@ -11458,7 +11672,7 @@
     "unlocs": [
       "GYGEO"
     ],
-    "code": "24410"
+    "code": "31201"
   },
   "HKHKG": {
     "name": "Hong Kong",
@@ -11573,7 +11787,8 @@
     "timezone": "America/Tegucigalpa",
     "unlocs": [
       "HNSLO"
-    ]
+    ],
+    "code": "21551"
   },
   "HNTEA": {
     "name": "Tela",
@@ -11589,7 +11804,8 @@
     "timezone": "America/Tegucigalpa",
     "unlocs": [
       "HNTEA"
-    ]
+    ],
+    "code": "21543"
   },
   "HNTGU": {
     "city": "Tegucigalpa",
@@ -11616,7 +11832,8 @@
     "timezone": "Europe/Zagreb",
     "unlocs": [
       "HRDBV"
-    ]
+    ],
+    "code": "47902"
   },
   "HRLST": {
     "name": "Lastovo",
@@ -11643,7 +11860,8 @@
     "timezone": "Europe/Zagreb",
     "unlocs": [
       "HRPLE"
-    ]
+    ],
+    "code": "47911"
   },
   "HRRJK": {
     "name": "Rijeka",
@@ -11659,7 +11877,8 @@
     "timezone": "Europe/Zagreb",
     "unlocs": [
       "HRRJK"
-    ]
+    ],
+    "code": "47923"
   },
   "HRSPU": {
     "name": "Split",
@@ -11675,7 +11894,8 @@
     "timezone": "Europe/Zagreb",
     "unlocs": [
       "HRSPU"
-    ]
+    ],
+    "code": "47931"
   },
   "HTCAP": {
     "name": "Cap-Haitien",
@@ -11883,7 +12103,8 @@
     "timezone": "Asia/Jakarta",
     "unlocs": [
       "IDCIG"
-    ]
+    ],
+    "code": "56056"
   },
   "IDDJB": {
     "name": "Jambi, Sumatra",
@@ -11978,7 +12199,8 @@
     "timezone": "Asia/Makassar",
     "unlocs": [
       "IDMAK"
-    ]
+    ],
+    "code": "56027"
   },
   "IDMES": {
     "name": "Medan, Sumatra",
@@ -12026,7 +12248,8 @@
     "timezone": "Asia/Jakarta",
     "unlocs": [
       "IDPDG"
-    ]
+    ],
+    "code": "56081"
   },
   "IDPJG": {
     "name": "Panjang (Lampung, Sumatra)",
@@ -12154,7 +12377,8 @@
     "timezone": "Asia/Jakarta",
     "unlocs": [
       "IDSRG"
-    ]
+    ],
+    "code": "56051"
   },
   "IDSRI": {
     "name": "Samarinda, Kalimantan",
@@ -12186,7 +12410,8 @@
     "timezone": "Asia/Jakarta",
     "unlocs": [
       "IDSUB"
-    ]
+    ],
+    "code": "56053"
   },
   "IDTAB": {
     "name": "Taboneo",
@@ -12233,7 +12458,8 @@
     "timezone": "Asia/Jakarta",
     "unlocs": [
       "IDTPP"
-    ]
+    ],
+    "code": "56033"
   },
   "IDTTI": {
     "name": "Tebingtinggi",
@@ -12280,7 +12506,8 @@
     "timezone": "Europe/Dublin",
     "unlocs": [
       "IEDRO"
-    ]
+    ],
+    "code": "41919"
   },
   "IEDUB": {
     "name": "Dublin",
@@ -12296,7 +12523,8 @@
     "timezone": "Europe/Dublin",
     "unlocs": [
       "IEDUB"
-    ]
+    ],
+    "code": "41911"
   },
   "IEFOV": {
     "name": "Foynes",
@@ -12329,7 +12557,8 @@
     "timezone": "Europe/Dublin",
     "unlocs": [
       "IEGWY"
-    ]
+    ],
+    "code": "41900"
   },
   "IEKLN": {
     "name": "Kinsale",
@@ -12361,7 +12590,8 @@
     "timezone": "Europe/Dublin",
     "unlocs": [
       "IEORK"
-    ]
+    ],
+    "code": "41905"
   },
   "IEWAT": {
     "name": "Waterford",
@@ -12539,7 +12769,8 @@
     "timezone": "Asia/Calcutta",
     "unlocs": [
       "INBOM"
-    ]
+    ],
+    "code": "53312"
   },
   "INCCU": {
     "name": "Kolkata (ex Calcutta)",
@@ -12572,7 +12803,8 @@
     "timezone": "Asia/Calcutta",
     "unlocs": [
       "INCDL"
-    ]
+    ],
+    "code": "53398"
   },
   "INCJB": {
     "name": "Coimbatore",
@@ -12833,7 +13065,8 @@
     "timezone": "Asia/Calcutta",
     "unlocs": [
       "INMAA"
-    ]
+    ],
+    "code": "53357"
   },
   "INMOR": {
     "name": "Moradabad",
@@ -12914,7 +13147,8 @@
     "timezone": "Asia/Calcutta",
     "unlocs": [
       "INNSA"
-    ]
+    ],
+    "code": "53313"
   },
   "INPAP": {
     "name": "Panipat",
@@ -12946,7 +13180,8 @@
     "timezone": "Asia/Calcutta",
     "unlocs": [
       "INPAV"
-    ]
+    ],
+    "code": "53304"
   },
   "INPIR": {
     "name": "Pithampur",
@@ -13010,7 +13245,8 @@
     "timezone": "Asia/Calcutta",
     "unlocs": [
       "INTUT"
-    ]
+    ],
+    "code": "53395"
   },
   "INVTZ": {
     "name": "Visakhapatnam",
@@ -13060,7 +13296,8 @@
     "timezone": "Asia/Baghdad",
     "unlocs": [
       "IQUQR"
-    ]
+    ],
+    "code": "50570"
   },
   "IRBKM": {
     "name": "Bandar Khomeini",
@@ -13110,7 +13347,8 @@
     "timezone": "Asia/Tehran",
     "unlocs": [
       "IRBUZ"
-    ]
+    ],
+    "code": "50700"
   },
   "IRKHO": {
     "name": "Khorramshahr",
@@ -13126,7 +13364,8 @@
     "timezone": "Asia/Tehran",
     "unlocs": [
       "IRKHO"
-    ]
+    ],
+    "code": "50700"
   },
   "IRZBR": {
     "name": "Chah Bahar",
@@ -13142,7 +13381,8 @@
     "timezone": "Asia/Tehran",
     "unlocs": [
       "IRZBR"
-    ]
+    ],
+    "code": "50700"
   },
   "ISESK": {
     "name": "Eskifjordur - hofn",
@@ -13172,7 +13412,8 @@
     "timezone": "Atlantic/Reykjavik",
     "unlocs": [
       "ISGRT"
-    ]
+    ],
+    "code": "40002"
   },
   "ISREY": {
     "name": "Reykjavik",
@@ -13307,7 +13548,8 @@
     "timezone": "Europe/Rome",
     "unlocs": [
       "ITCVV"
-    ]
+    ],
+    "code": "47519"
   },
   "ITFAE": {
     "name": "Faenza",
@@ -13373,7 +13615,8 @@
     "timezone": "Europe/Rome",
     "unlocs": [
       "ITGOA"
-    ]
+    ],
+    "code": "47527"
   },
   "ITLIV": {
     "name": "Livorno",
@@ -13389,7 +13632,8 @@
     "timezone": "Europe/Rome",
     "unlocs": [
       "ITLIV"
-    ]
+    ],
+    "code": "47537"
   },
   "ITMIL": {
     "name": "Milano",
@@ -13454,7 +13698,8 @@
     "timezone": "Europe/Rome",
     "unlocs": [
       "ITNAP"
-    ]
+    ],
+    "code": "47507"
   },
   "ITPDA": {
     "name": "Padova",
@@ -13518,7 +13763,8 @@
     "timezone": "Europe/Rome",
     "unlocs": [
       "ITPMO"
-    ]
+    ],
+    "code": "47551"
   },
   "ITPRJ": {
     "name": "Capri",
@@ -13566,7 +13812,8 @@
     "timezone": "Europe/Rome",
     "unlocs": [
       "ITPVE"
-    ]
+    ],
+    "code": "47568"
   },
   "ITRAN": {
     "name": "Ravenna",
@@ -13582,7 +13829,8 @@
     "timezone": "Europe/Rome",
     "unlocs": [
       "ITRAN"
-    ]
+    ],
+    "code": "47584"
   },
   "ITSAL": {
     "name": "Salerno",
@@ -13649,7 +13897,8 @@
     "timezone": "Europe/Rome",
     "unlocs": [
       "ITTAR"
-    ]
+    ],
+    "code": "47585"
   },
   "ITTPS": {
     "name": "Trapani",
@@ -13665,7 +13914,8 @@
     "timezone": "Europe/Rome",
     "unlocs": [
       "ITTPS"
-    ]
+    ],
+    "code": "47558"
   },
   "ITTRN": {
     "name": "Torino",
@@ -13714,7 +13964,8 @@
     "timezone": "Europe/Rome",
     "unlocs": [
       "ITVCE"
-    ]
+    ],
+    "code": "47595"
   },
   "ITVDL": {
     "name": "Vado Ligure",
@@ -13730,7 +13981,8 @@
     "timezone": "Europe/Rome",
     "unlocs": [
       "ITVDL"
-    ]
+    ],
+    "code": "47540"
   },
   "ITVIA": {
     "name": "Viareggio",
@@ -13812,7 +14064,8 @@
     "timezone": "America/Jamaica",
     "unlocs": [
       "JMPKS"
-    ]
+    ],
+    "code": "24165"
   },
   "JOAQJ": {
     "name": "Al 'Aqabah",
@@ -14233,7 +14486,8 @@
     "timezone": "Asia/Tokyo",
     "unlocs": [
       "JPIWK"
-    ]
+    ],
+    "code": "58833"
   },
   "JPIYM": {
     "name": "Iyomishima",
@@ -14265,7 +14519,8 @@
     "timezone": "Asia/Tokyo",
     "unlocs": [
       "JPKCZ"
-    ]
+    ],
+    "code": "58873"
   },
   "JPKGA": {
     "name": "Kakogawa",
@@ -14281,7 +14536,8 @@
     "timezone": "Asia/Tokyo",
     "unlocs": [
       "JPKGA"
-    ]
+    ],
+    "code": "58828"
   },
   "JPKIJ": {
     "name": "Niigata",
@@ -14462,7 +14718,8 @@
     "timezone": "Asia/Tokyo",
     "unlocs": [
       "JPKZU"
-    ]
+    ],
+    "code": "58827"
   },
   "JPMAI": {
     "name": "Maizuru",
@@ -14736,7 +14993,8 @@
     "timezone": "Asia/Tokyo",
     "unlocs": [
       "JPONO"
-    ]
+    ],
+    "code": "58800"
   },
   "JPOSA": {
     "name": "Osaka",
@@ -14752,7 +15010,8 @@
     "timezone": "Asia/Tokyo",
     "unlocs": [
       "JPOSA"
-    ]
+    ],
+    "code": "58866"
   },
   "JPOTK": {
     "name": "Otake",
@@ -14784,7 +15043,8 @@
     "timezone": "Asia/Tokyo",
     "unlocs": [
       "JPSAG"
-    ]
+    ],
+    "code": "58800"
   },
   "JPSBS": {
     "name": "Shibushi",
@@ -14881,7 +15141,8 @@
     "timezone": "Asia/Tokyo",
     "unlocs": [
       "JPSHS"
-    ]
+    ],
+    "code": "58814"
   },
   "JPSKD": {
     "name": "Sakaide",
@@ -14914,7 +15175,8 @@
     "timezone": "Asia/Tokyo",
     "unlocs": [
       "JPSKM"
-    ]
+    ],
+    "code": "58800"
   },
   "JPSKT": {
     "name": "Sakata",
@@ -14979,7 +15241,8 @@
     "timezone": "Asia/Tokyo",
     "unlocs": [
       "JPSMZ"
-    ]
+    ],
+    "code": "58878"
   },
   "JPTAK": {
     "name": "Takamatsu",
@@ -14995,7 +15258,8 @@
     "timezone": "Asia/Tokyo",
     "unlocs": [
       "JPTAK"
-    ]
+    ],
+    "code": "58800"
   },
   "JPTBT": {
     "name": "Tobata/Kitakyushu",
@@ -15027,7 +15291,8 @@
     "timezone": "Asia/Tokyo",
     "unlocs": [
       "JPTGO"
-    ]
+    ],
+    "code": "58880"
   },
   "JPTHS": {
     "name": "Toyohashi",
@@ -15043,7 +15308,8 @@
     "timezone": "Asia/Tokyo",
     "unlocs": [
       "JPTHS"
-    ]
+    ],
+    "code": "58883"
   },
   "JPTKS": {
     "name": "Tokushima",
@@ -15075,7 +15341,8 @@
     "timezone": "Asia/Tokyo",
     "unlocs": [
       "JPTKY"
-    ]
+    ],
+    "code": "58885"
   },
   "JPTMI": {
     "name": "Tsukumi",
@@ -15108,7 +15375,8 @@
     "timezone": "Asia/Tokyo",
     "unlocs": [
       "JPTMK"
-    ]
+    ],
+    "code": "58811"
   },
   "JPTND": {
     "name": "Tonda",
@@ -15172,7 +15440,8 @@
     "timezone": "Asia/Tokyo",
     "unlocs": [
       "JPTOY"
-    ]
+    ],
+    "code": "58810"
   },
   "JPTRG": {
     "name": "Tsuruga",
@@ -15188,7 +15457,8 @@
     "timezone": "Asia/Tokyo",
     "unlocs": [
       "JPTRG"
-    ]
+    ],
+    "code": "58800"
   },
   "JPTYO": {
     "name": "Tokyo",
@@ -15288,7 +15558,8 @@
     "timezone": "Asia/Tokyo",
     "unlocs": [
       "JPYAT"
-    ]
+    ],
+    "code": "58887"
   },
   "JPYKK": {
     "name": "Yokkaichi",
@@ -15304,7 +15575,8 @@
     "timezone": "Asia/Tokyo",
     "unlocs": [
       "JPYKK"
-    ]
+    ],
+    "code": "58894"
   },
   "JPYOK": {
     "name": "Yokohama",
@@ -15337,7 +15609,8 @@
     "timezone": "Asia/Tokyo",
     "unlocs": [
       "JPYOS"
-    ]
+    ],
+    "code": "58896"
   },
   "JPYWT": {
     "name": "Yawata/Kitakyushu",
@@ -15353,7 +15626,8 @@
     "timezone": "Asia/Calcutta",
     "unlocs": [
       "JPYWT"
-    ]
+    ],
+    "code": "58893"
   },
   "KEMBA": {
     "name": "Mombasa",
@@ -15369,7 +15643,8 @@
     "timezone": "Africa/Nairobi",
     "unlocs": [
       "KEMBA"
-    ]
+    ],
+    "code": "77913"
   },
   "KENBO": {
     "name": "Nairobi",
@@ -15401,7 +15676,8 @@
     "timezone": "Asia/Phnom_Penh",
     "unlocs": [
       "KHKOS"
-    ]
+    ],
+    "code": "55500"
   },
   "KHPNH": {
     "name": "Phnom Penh",
@@ -15417,7 +15693,8 @@
     "timezone": "Asia/Phnom_Penh",
     "unlocs": [
       "KHPNH"
-    ]
+    ],
+    "code": "55500"
   },
   "KITRW": {
     "name": "Tarawa",
@@ -15464,7 +15741,8 @@
     "timezone": "Indian/Comoro",
     "unlocs": [
       "KMYVA"
-    ]
+    ],
+    "code": "78900"
   },
   "KNBAS": {
     "name": "Basseterre, Saint Kitts",
@@ -15559,7 +15837,8 @@
     "timezone": "Asia/Seoul",
     "unlocs": [
       "KRCHF"
-    ]
+    ],
+    "code": "58015"
   },
   "KRCHG": {
     "name": "Janghang/Seocheon-gun",
@@ -15847,7 +16126,8 @@
     "timezone": "Asia/Seoul",
     "unlocs": [
       "KRKPO"
-    ]
+    ],
+    "code": "58055"
   },
   "KRKUM": {
     "name": "Gumi",
@@ -15945,7 +16225,8 @@
     "timezone": "Asia/Seoul",
     "unlocs": [
       "KRMOK"
-    ]
+    ],
+    "code": "58035"
   },
   "KRNYJ": {
     "name": "Namyang/Goheung-gun",
@@ -16138,7 +16419,8 @@
     "timezone": "Asia/Seoul",
     "unlocs": [
       "KRUSN"
-    ]
+    ],
+    "code": "58061"
   },
   "KRYES": {
     "name": "Yesan",
@@ -16170,7 +16452,8 @@
     "timezone": "Asia/Seoul",
     "unlocs": [
       "KRYOS"
-    ]
+    ],
+    "code": "58065"
   },
   "KWKWI": {
     "name": "Kuwait",
@@ -16186,7 +16469,8 @@
     "timezone": "Asia/Kuwait",
     "unlocs": [
       "KWKWI"
-    ]
+    ],
+    "code": "51321"
   },
   "KWSAA": {
     "name": "Shuaiba",
@@ -16202,7 +16486,8 @@
     "timezone": "Asia/Kuwait",
     "unlocs": [
       "KWSAA"
-    ]
+    ],
+    "code": "51350"
   },
   "KWSWK": {
     "name": "Shuwaikh",
@@ -16233,7 +16518,8 @@
     "timezone": "America/Cayman",
     "unlocs": [
       "KYGCM"
-    ]
+    ],
+    "code": "24410"
   },
   "KYGEC": {
     "name": "Georgetown, Grand Cayman",
@@ -16265,7 +16551,8 @@
     "timezone": "Asia/Beirut",
     "unlocs": [
       "LBBEY"
-    ]
+    ],
+    "code": "50401"
   },
   "LBKYE": {
     "name": "Tripoli",
@@ -16281,7 +16568,8 @@
     "timezone": "Asia/Beirut",
     "unlocs": [
       "LBKYE"
-    ]
+    ],
+    "code": "50400"
   },
   "LCCAS": {
     "name": "Castries",
@@ -16413,7 +16701,8 @@
     "timezone": "Europe/Riga",
     "unlocs": [
       "LVRIX"
-    ]
+    ],
+    "code": "44911"
   },
   "LVSAL": {
     "timezone": "Europe/Riga",
@@ -16462,7 +16751,8 @@
     "timezone": "Africa/Tripoli",
     "unlocs": [
       "LYBEN"
-    ]
+    ],
+    "code": "72501"
   },
   "LYKHO": {
     "name": "Al Khums",
@@ -16510,7 +16800,8 @@
     "timezone": "Africa/Tripoli",
     "unlocs": [
       "LYTIP"
-    ]
+    ],
+    "code": "72525"
   },
   "MAAGA": {
     "name": "Agadir",
@@ -16560,7 +16851,8 @@
     "timezone": "Africa/Casablanca",
     "unlocs": [
       "MAELJ"
-    ]
+    ],
+    "code": "71400"
   },
   "MAMOH": {
     "name": "Mohammedia",
@@ -16625,7 +16917,8 @@
     "timezone": "Africa/Casablanca",
     "unlocs": [
       "MASFI"
-    ]
+    ],
+    "code": "71419"
   },
   "MATNG": {
     "name": "Tangier",
@@ -16641,7 +16934,8 @@
     "timezone": "Africa/Casablanca",
     "unlocs": [
       "MATNG"
-    ]
+    ],
+    "code": "71425"
   },
   "MCMON": {
     "name": "Monaco",
@@ -16705,7 +16999,8 @@
     "timezone": "Indian/Antananarivo",
     "unlocs": [
       "MGDIE"
-    ]
+    ],
+    "code": "78800"
   },
   "MGEHL": {
     "name": "Ehoala",
@@ -16737,7 +17032,8 @@
     "timezone": "Indian/Antananarivo",
     "unlocs": [
       "MGMJN"
-    ]
+    ],
+    "code": "78800"
   },
   "MGNOS": {
     "name": "Nosy-Be",
@@ -16768,7 +17064,8 @@
     "timezone": "Indian/Antananarivo",
     "unlocs": [
       "MGTLE"
-    ]
+    ],
+    "code": "78800"
   },
   "MGTMM": {
     "name": "Tamatave (Toamasina)",
@@ -16784,7 +17081,8 @@
     "timezone": "Indian/Antananarivo",
     "unlocs": [
       "MGTMM"
-    ]
+    ],
+    "code": "78845"
   },
   "MGTOA": {
     "name": "Toamasina",
@@ -16800,7 +17098,8 @@
     "timezone": "Indian/Antananarivo",
     "unlocs": [
       "MGTOA"
-    ]
+    ],
+    "code": "78845"
   },
   "MHMAJ": {
     "name": "Majuro",
@@ -16929,7 +17228,8 @@
     "timezone": "Africa/Nouakchott",
     "unlocs": [
       "MRNKC"
-    ]
+    ],
+    "code": "74100"
   },
   "MTMAR": {
     "name": "Marsaxlokk",
@@ -16978,7 +17278,8 @@
     "timezone": "Europe/Malta",
     "unlocs": [
       "MTMLA"
-    ]
+    ],
+    "code": "47305"
   },
   "MUPLU": {
     "name": "Port Louis",
@@ -16994,7 +17295,8 @@
     "timezone": "Indian/Mauritius",
     "unlocs": [
       "MUPLU"
-    ]
+    ],
+    "code": "78501"
   },
   "MVMLE": {
     "name": "Male",
@@ -17208,7 +17510,8 @@
     "timezone": "America/Mexico_City",
     "unlocs": [
       "MXTAM"
-    ]
+    ],
+    "code": "20193"
   },
   "MXTPB": {
     "name": "Topolobampo",
@@ -17224,7 +17527,8 @@
     "timezone": "America/Mazatlan",
     "unlocs": [
       "MXTPB"
-    ]
+    ],
+    "code": "20106"
   },
   "MXVER": {
     "name": "Veracruz",
@@ -17256,7 +17560,8 @@
     "timezone": "America/Mexico_City",
     "unlocs": [
       "MXZLO"
-    ]
+    ],
+    "code": "20120"
   },
   "MYBKI": {
     "name": "Kota Kinabalu, Sabah",
@@ -17288,7 +17593,8 @@
     "timezone": "Asia/Kuala_Lumpur",
     "unlocs": [
       "MYBTU"
-    ]
+    ],
+    "code": "55732"
   },
   "MYBWH": {
     "name": "Bagan Luar (Butterworth)",
@@ -17304,7 +17610,8 @@
     "timezone": "Asia/Kuala_Lumpur",
     "unlocs": [
       "MYBWH"
-    ]
+    ],
+    "code": "55705"
   },
   "MYJHB": {
     "name": "Johor Bahru",
@@ -17336,7 +17643,8 @@
     "timezone": "Asia/Kuala_Lumpur",
     "unlocs": [
       "MYKCH"
-    ]
+    ],
+    "code": "55713"
   },
   "MYKUA": {
     "name": "Kuantan (Tanjong Gelang)",
@@ -17352,7 +17660,8 @@
     "timezone": "Asia/Kuala_Lumpur",
     "unlocs": [
       "MYKUA"
-    ]
+    ],
+    "code": "55715"
   },
   "MYLBU": {
     "name": "Labuan, Sabah",
@@ -17368,7 +17677,8 @@
     "timezone": "Asia/Kuala_Lumpur",
     "unlocs": [
       "MYLBU"
-    ]
+    ],
+    "code": "55717"
   },
   "MYMEP": {
     "name": "Mersing",
@@ -17400,7 +17710,8 @@
     "timezone": "Asia/Kuala_Lumpur",
     "unlocs": [
       "MYMKZ"
-    ]
+    ],
+    "code": "55700"
   },
   "MYMUA": {
     "name": "Muar",
@@ -17448,7 +17759,8 @@
     "timezone": "Asia/Kuala_Lumpur",
     "unlocs": [
       "MYPEN"
-    ]
+    ],
+    "code": "55735"
   },
   "MYPGU": {
     "name": "Pasir Gudang, Johor",
@@ -17512,7 +17824,8 @@
     "timezone": "Asia/Kuala_Lumpur",
     "unlocs": [
       "MYSDK"
-    ]
+    ],
+    "code": "55706"
   },
   "MYTBA": {
     "name": "Tanjong Baran",
@@ -17677,7 +17990,8 @@
     "timezone": "Africa/Maputo",
     "unlocs": [
       "MZUEL"
-    ]
+    ],
+    "code": "78700"
   },
   "NALUD": {
     "name": "Luderitz",
@@ -17693,7 +18007,8 @@
     "timezone": "Africa/Windhoek",
     "unlocs": [
       "NALUD"
-    ]
+    ],
+    "code": "79299"
   },
   "NAWVB": {
     "name": "Walvis Bay",
@@ -17709,7 +18024,8 @@
     "timezone": "Africa/Windhoek",
     "unlocs": [
       "NAWVB"
-    ]
+    ],
+    "code": "79286"
   },
   "NCNOU": {
     "name": "Noumea",
@@ -17776,7 +18092,8 @@
     "timezone": "Africa/Lagos",
     "unlocs": [
       "NGLOS"
-    ]
+    ],
+    "code": "75367"
   },
   "NGONN": {
     "name": "Onne",
@@ -17792,7 +18109,8 @@
     "timezone": "Africa/Lagos",
     "unlocs": [
       "NGONN"
-    ]
+    ],
+    "code": "75385"
   },
   "NGPHC": {
     "name": "Port Harcourt",
@@ -17808,7 +18126,8 @@
     "timezone": "Africa/Lagos",
     "unlocs": [
       "NGPHC"
-    ]
+    ],
+    "code": "75385"
   },
   "NGTIN": {
     "name": "Tincan/Lagos",
@@ -17973,7 +18292,8 @@
     "timezone": "Europe/Amsterdam",
     "unlocs": [
       "NLGRQ"
-    ]
+    ],
+    "code": "42100"
   },
   "NLHVH": {
     "name": "Hoek van Holland",
@@ -18054,7 +18374,8 @@
     "timezone": "Europe/Amsterdam",
     "unlocs": [
       "NLTNZ"
-    ]
+    ],
+    "code": "42171"
   },
   "NLVEL": {
     "name": "Velsen",
@@ -18070,7 +18391,8 @@
     "timezone": "Europe/Amsterdam",
     "unlocs": [
       "NLVEL"
-    ]
+    ],
+    "code": "42190"
   },
   "NLVLA": {
     "name": "Vlaardingen",
@@ -18103,7 +18425,8 @@
     "timezone": "Europe/Amsterdam",
     "unlocs": [
       "NLVLI"
-    ]
+    ],
+    "code": "42185"
   },
   "NLZAA": {
     "name": "Zaandam",
@@ -18119,7 +18442,8 @@
     "timezone": "Europe/Amsterdam",
     "unlocs": [
       "NLZAA"
-    ]
+    ],
+    "code": "42100"
   },
   "NLZEW": {
     "name": "Zeewolde",
@@ -18151,7 +18475,8 @@
     "timezone": "Europe/Oslo",
     "unlocs": [
       "NOAAV"
-    ]
+    ],
+    "code": "40300"
   },
   "NOAES": {
     "name": "Alesund",
@@ -18199,7 +18524,8 @@
     "timezone": "Europe/Oslo",
     "unlocs": [
       "NOAND"
-    ]
+    ],
+    "code": "40300"
   },
   "NOASV": {
     "name": "Austevoll",
@@ -18231,7 +18557,8 @@
     "timezone": "Europe/Oslo",
     "unlocs": [
       "NOBGO"
-    ]
+    ],
+    "code": "40311"
   },
   "NOBOO": {
     "name": "Bodo",
@@ -18281,7 +18608,8 @@
     "timezone": "Europe/Oslo",
     "unlocs": [
       "NODRM"
-    ]
+    ],
+    "code": "40321"
   },
   "NOEGD": {
     "name": "Eigersund",
@@ -18329,7 +18657,8 @@
     "timezone": "Europe/Oslo",
     "unlocs": [
       "NOFRK"
-    ]
+    ],
+    "code": "40334"
   },
   "NOFRO": {
     "name": "Floro",
@@ -18444,7 +18773,8 @@
     "timezone": "Europe/Oslo",
     "unlocs": [
       "NOHLA"
-    ]
+    ],
+    "code": "40320"
   },
   "NOHOG": {
     "name": "Hogset",
@@ -18752,7 +19082,8 @@
     "timezone": "Europe/Oslo",
     "unlocs": [
       "NOODD"
-    ]
+    ],
+    "code": "40300"
   },
   "NOORK": {
     "name": "Orkanger",
@@ -18784,7 +19115,8 @@
     "timezone": "Europe/Oslo",
     "unlocs": [
       "NOOSL"
-    ]
+    ],
+    "code": "40377"
   },
   "NOPOR": {
     "name": "Porsgrunn",
@@ -18800,7 +19132,8 @@
     "timezone": "Europe/Oslo",
     "unlocs": [
       "NOPOR"
-    ]
+    ],
+    "code": "40378"
   },
   "NOSAD": {
     "name": "Sandefjord",
@@ -18816,7 +19149,8 @@
     "timezone": "Europe/Oslo",
     "unlocs": [
       "NOSAD"
-    ]
+    ],
+    "code": "40300"
   },
   "NOSAU": {
     "name": "Sauda",
@@ -18849,7 +19183,8 @@
     "timezone": "Europe/Oslo",
     "unlocs": [
       "NOSKE"
-    ]
+    ],
+    "code": "40385"
   },
   "NOSKX": {
     "name": "Skogn",
@@ -18897,7 +19232,8 @@
     "timezone": "Europe/Oslo",
     "unlocs": [
       "NOSPG"
-    ]
+    ],
+    "code": "40300"
   },
   "NOSRP": {
     "name": "Stord",
@@ -18962,7 +19298,8 @@
     "timezone": "Europe/Oslo",
     "unlocs": [
       "NOSVE"
-    ]
+    ],
+    "code": "40392"
   },
   "NOSVG": {
     "name": "Stavanger",
@@ -18978,7 +19315,8 @@
     "timezone": "Europe/Oslo",
     "unlocs": [
       "NOSVG"
-    ]
+    ],
+    "code": "40387"
   },
   "NOTAE": {
     "name": "Tananger",
@@ -19010,7 +19348,8 @@
     "timezone": "Europe/Oslo",
     "unlocs": [
       "NOTON"
-    ]
+    ],
+    "code": "40300"
   },
   "NOTOS": {
     "name": "Tromso",
@@ -19110,7 +19449,8 @@
     "timezone": "Pacific/Auckland",
     "unlocs": [
       "NZDUD"
-    ]
+    ],
+    "code": "61407"
   },
   "NZHLZ": {
     "name": "Hamilton",
@@ -19142,7 +19482,8 @@
     "timezone": "Pacific/Auckland",
     "unlocs": [
       "NZLYT"
-    ]
+    ],
+    "code": "61415"
   },
   "NZMNR": {
     "name": "Middleton/Christchurch",
@@ -19191,7 +19532,8 @@
     "timezone": "Pacific/Auckland",
     "unlocs": [
       "NZNPL"
-    ]
+    ],
+    "code": "61423"
   },
   "NZNSN": {
     "name": "Nelson",
@@ -19207,7 +19549,8 @@
     "timezone": "Pacific/Auckland",
     "unlocs": [
       "NZNSN"
-    ]
+    ],
+    "code": "61406"
   },
   "NZPMR": {
     "name": "Palmerston North",
@@ -19239,7 +19582,8 @@
     "timezone": "Pacific/Auckland",
     "unlocs": [
       "NZPOE"
-    ]
+    ],
+    "code": "61431"
   },
   "NZTIU": {
     "name": "Timaru",
@@ -19288,7 +19632,8 @@
     "timezone": "Pacific/Auckland",
     "unlocs": [
       "NZTRG"
-    ]
+    ],
+    "code": "61443"
   },
   "NZWAG": {
     "name": "Wanganui",
@@ -19304,7 +19649,8 @@
     "timezone": "Pacific/Auckland",
     "unlocs": [
       "NZWAG"
-    ]
+    ],
+    "code": "61400"
   },
   "NZWLG": {
     "name": "Wellington",
@@ -19353,7 +19699,8 @@
     "timezone": "Asia/Muscat",
     "unlocs": [
       "OMMCT"
-    ]
+    ],
+    "code": "52325"
   },
   "OMMNQ": {
     "name": "Mina' Qabus",
@@ -19401,7 +19748,8 @@
     "timezone": "Asia/Muscat",
     "unlocs": [
       "OMSLL"
-    ]
+    ],
+    "code": "52330"
   },
   "OMSOH": {
     "name": "Sohar",
@@ -19433,7 +19781,8 @@
     "timezone": "America/Panama",
     "unlocs": [
       "PAAML"
-    ]
+    ],
+    "code": "22587"
   },
   "PABLB": {
     "name": "Balboa",
@@ -19548,7 +19897,8 @@
     "timezone": "America/Panama",
     "unlocs": [
       "PAMIT"
-    ]
+    ],
+    "code": "22556"
   },
   "PAONX": {
     "name": "Colon",
@@ -19581,7 +19931,8 @@
     "timezone": "America/Panama",
     "unlocs": [
       "PAPSA"
-    ]
+    ],
+    "code": "22599"
   },
   "PAPTY": {
     "name": "Panama, Ciudad de",
@@ -19613,7 +19964,8 @@
     "timezone": "America/Lima",
     "unlocs": [
       "PEATI"
-    ]
+    ],
+    "code": "33300"
   },
   "PECHM": {
     "name": "Chimbote",
@@ -19629,7 +19981,8 @@
     "timezone": "America/Lima",
     "unlocs": [
       "PECHM"
-    ]
+    ],
+    "code": "33300"
   },
   "PECLL": {
     "name": "Callao",
@@ -19679,7 +20032,8 @@
     "timezone": "America/Lima",
     "unlocs": [
       "PEHCO"
-    ]
+    ],
+    "code": "33300"
   },
   "PEILQ": {
     "name": "Ilo",
@@ -19762,7 +20116,8 @@
     "timezone": "America/Lima",
     "unlocs": [
       "PEPAC"
-    ]
+    ],
+    "code": "33300"
   },
   "PEPAI": {
     "name": "Paita",
@@ -19778,7 +20133,8 @@
     "timezone": "America/Lima",
     "unlocs": [
       "PEPAI"
-    ]
+    ],
+    "code": "33363"
   },
   "PEPCH": {
     "name": "Puerto Chicama",
@@ -19810,7 +20166,8 @@
     "timezone": "America/Lima",
     "unlocs": [
       "PEPIO"
-    ]
+    ],
+    "code": "33373"
   },
   "PESNX": {
     "name": "San Nicolas",
@@ -19827,7 +20184,7 @@
     "unlocs": [
       "PESNX"
     ],
-    "code": "35781"
+    "code": "33380"
   },
   "PESUP": {
     "name": "Supe",
@@ -19877,7 +20234,8 @@
     "timezone": "America/Lima",
     "unlocs": [
       "PETYL"
-    ]
+    ],
+    "code": "33389"
   },
   "PFPPT": {
     "name": "Papeete",
@@ -19926,7 +20284,8 @@
     "timezone": "Pacific/Port_Moresby",
     "unlocs": [
       "PGMAG"
-    ]
+    ],
+    "code": "60400"
   },
   "PGPOM": {
     "name": "Port Moresby",
@@ -19942,7 +20301,8 @@
     "timezone": "Pacific/Port_Moresby",
     "unlocs": [
       "PGPOM"
-    ]
+    ],
+    "code": "60447"
   },
   "PGRAB": {
     "name": "Rabaul",
@@ -20181,7 +20541,8 @@
     "timezone": "Asia/Manila",
     "unlocs": [
       "PHSFS"
-    ]
+    ],
+    "code": "56585"
   },
   "PHZAM": {
     "name": "Zamboanga",
@@ -20197,7 +20558,8 @@
     "timezone": "Asia/Manila",
     "unlocs": [
       "PHZAM"
-    ]
+    ],
+    "code": "56597"
   },
   "PKBQM": {
     "name": "Karachi-muhammad Bin Qasim",
@@ -20246,7 +20608,8 @@
     "timezone": "Europe/Warsaw",
     "unlocs": [
       "PLGDN"
-    ]
+    ],
+    "code": "45511"
   },
   "PLGDY": {
     "name": "Gdynia",
@@ -20262,7 +20625,8 @@
     "timezone": "Europe/Warsaw",
     "unlocs": [
       "PLGDY"
-    ]
+    ],
+    "code": "45505"
   },
   "PLSWI": {
     "name": "Swinoujscie",
@@ -20278,7 +20642,8 @@
     "timezone": "Europe/Warsaw",
     "unlocs": [
       "PLSWI"
-    ]
+    ],
+    "code": "45512"
   },
   "PLSZZ": {
     "name": "Szczecin",
@@ -20294,7 +20659,8 @@
     "timezone": "Europe/Warsaw",
     "unlocs": [
       "PLSZZ"
-    ]
+    ],
+    "code": "45507"
   },
   "PRBQN": {
     "name": "Aguadilla",
@@ -20391,7 +20757,8 @@
     "timezone": "Atlantic/Azores",
     "unlocs": [
       "PTADH"
-    ]
+    ],
+    "code": "47150"
   },
   "PTCNL": {
     "name": "Canical",
@@ -20472,7 +20839,8 @@
     "timezone": "Asia/Calcutta",
     "unlocs": [
       "PTHOR"
-    ]
+    ],
+    "code": "47150"
   },
   "PTLEI": {
     "name": "Leixoes",
@@ -20522,7 +20890,8 @@
     "timezone": "Europe/Lisbon",
     "unlocs": [
       "PTOPO"
-    ]
+    ],
+    "code": "47133"
   },
   "PTPDL": {
     "name": "Ponta Delgada",
@@ -20537,7 +20906,8 @@
     "regions": [],
     "unlocs": [
       "PTPDL"
-    ]
+    ],
+    "code": "47151"
   },
   "PTPRV": {
     "name": "Praia da Vitoria",
@@ -20569,7 +20939,8 @@
     "timezone": "Europe/Lisbon",
     "unlocs": [
       "PTSET"
-    ]
+    ],
+    "code": "47141"
   },
   "PTSIE": {
     "name": "Sines",
@@ -20585,7 +20956,8 @@
     "timezone": "Europe/Lisbon",
     "unlocs": [
       "PTSIE"
-    ]
+    ],
+    "code": "47127"
   },
   "PTTER": {
     "name": "Terceira Island Apt",
@@ -20714,7 +21086,8 @@
     "timezone": "America/Asuncion",
     "unlocs": [
       "PYSAN"
-    ]
+    ],
+    "code": "35300"
   },
   "PYTER": {
     "name": "Terport (San Antonio)",
@@ -20869,7 +21242,8 @@
     "timezone": "Europe/Bucharest",
     "unlocs": [
       "ROBRA"
-    ]
+    ],
+    "code": "48500"
   },
   "ROCND": {
     "name": "Constanta",
@@ -20902,7 +21276,8 @@
     "timezone": "Europe/Bucharest",
     "unlocs": [
       "ROGAL"
-    ]
+    ],
+    "code": "48500"
   },
   "ROMAG": {
     "timezone": "Europe/Bucharest",
@@ -20934,7 +21309,8 @@
     "timezone": "Europe/Moscow",
     "unlocs": [
       "RUARH"
-    ]
+    ],
+    "code": "46200"
   },
   "RUGDX": {
     "name": "Magadan",
@@ -21000,7 +21376,8 @@
     "timezone": "Asia/Vladivostok",
     "unlocs": [
       "RUKOR"
-    ]
+    ],
+    "code": "46236"
   },
   "RUKRR": {
     "name": "Krasnodar",
@@ -21131,7 +21508,8 @@
     "timezone": "Europe/Moscow",
     "unlocs": [
       "RUTAG"
-    ]
+    ],
+    "code": "46242"
   },
   "RUVVO": {
     "name": "Vladivostok",
@@ -21164,7 +21542,8 @@
     "timezone": "Europe/Moscow",
     "unlocs": [
       "RUVYG"
-    ]
+    ],
+    "code": "46220"
   },
   "RUVYP": {
     "name": "Vostochnyy Port",
@@ -21180,7 +21559,8 @@
     "timezone": "Asia/Vladivostok",
     "unlocs": [
       "RUVYP"
-    ]
+    ],
+    "code": "46231"
   },
   "RWKGL": {
     "name": "Kigali",
@@ -21261,7 +21641,8 @@
     "timezone": "Asia/Riyadh",
     "unlocs": [
       "SAJUB"
-    ]
+    ],
+    "code": "51720"
   },
   "SAKAC": {
     "name": "King Abdullah City",
@@ -21355,7 +21736,8 @@
     "timezone": "Indian/Mahe",
     "unlocs": [
       "SCPOV"
-    ]
+    ],
+    "code": "78083"
   },
   "SDPZU": {
     "name": "Port Sudan",
@@ -21371,7 +21753,8 @@
     "timezone": "Africa/Khartoum",
     "unlocs": [
       "SDPZU"
-    ]
+    ],
+    "code": "73201"
   },
   "SEAHU": {
     "name": "Ahus",
@@ -21438,7 +21821,8 @@
     "timezone": "Europe/Stockholm",
     "unlocs": [
       "SEGVX"
-    ]
+    ],
+    "code": "40116"
   },
   "SEHAD": {
     "name": "Halmstad",
@@ -21471,7 +21855,8 @@
     "timezone": "Europe/Stockholm",
     "unlocs": [
       "SEHEL"
-    ]
+    ],
+    "code": "40120"
   },
   "SEKAN": {
     "name": "Karlshamn",
@@ -21504,7 +21889,8 @@
     "timezone": "Europe/Stockholm",
     "unlocs": [
       "SEKSD"
-    ]
+    ],
+    "code": "40100"
   },
   "SELAA": {
     "name": "Landskrona",
@@ -21536,7 +21922,8 @@
     "timezone": "Europe/Stockholm",
     "unlocs": [
       "SEMMA"
-    ]
+    ],
+    "code": "40143"
   },
   "SENRK": {
     "name": "Norrkoping",
@@ -21620,7 +22007,8 @@
     "timezone": "Europe/Stockholm",
     "unlocs": [
       "SESFT"
-    ]
+    ],
+    "code": "40124"
   },
   "SESKE": {
     "name": "Skelleftehamn",
@@ -21636,7 +22024,8 @@
     "timezone": "Europe/Stockholm",
     "unlocs": [
       "SESKE"
-    ]
+    ],
+    "code": "40124"
   },
   "SESOE": {
     "name": "Sodertalje",
@@ -21668,7 +22057,8 @@
     "timezone": "Europe/Stockholm",
     "unlocs": [
       "SESTO"
-    ]
+    ],
+    "code": "40179"
   },
   "SETRG": {
     "name": "Trelleborg",
@@ -21701,7 +22091,8 @@
     "timezone": "Europe/Stockholm",
     "unlocs": [
       "SEUDD"
-    ]
+    ],
+    "code": "40188"
   },
   "SEUME": {
     "name": "Umea",
@@ -21782,7 +22173,8 @@
     "timezone": "Europe/Ljubljana",
     "unlocs": [
       "SIKOP"
-    ]
+    ],
+    "code": "47909"
   },
   "SKBTS": {
     "name": "Bratislava",
@@ -21814,7 +22206,8 @@
     "timezone": "Africa/Freetown",
     "unlocs": [
       "SLFNA"
-    ]
+    ],
+    "code": "74751"
   },
   "SNDKR": {
     "name": "Dakar",
@@ -21864,7 +22257,8 @@
     "timezone": "Africa/Mogadishu",
     "unlocs": [
       "SOKMU"
-    ]
+    ],
+    "code": "77099"
   },
   "SOMGQ": {
     "name": "Mogadishu",
@@ -21880,7 +22274,8 @@
     "timezone": "Africa/Mogadishu",
     "unlocs": [
       "SOMGQ"
-    ]
+    ],
+    "code": "77051"
   },
   "SRPBM": {
     "name": "Paramaribo",
@@ -21896,7 +22291,8 @@
     "timezone": "America/Paramaribo",
     "unlocs": [
       "SRPBM"
-    ]
+    ],
+    "code": "31523"
   },
   "STTMS": {
     "name": "Sao Tome Island",
@@ -21944,7 +22340,8 @@
     "timezone": "America/El_Salvador",
     "unlocs": [
       "SVLLD"
-    ]
+    ],
+    "code": "21199"
   },
   "SVLUN": {
     "name": "La Union",
@@ -21960,7 +22357,8 @@
     "timezone": "America/El_Salvador",
     "unlocs": [
       "SVLUN"
-    ]
+    ],
+    "code": "21137"
   },
   "SVSAL": {
     "name": "San Salvador",
@@ -22008,7 +22406,8 @@
     "timezone": "Asia/Damascus",
     "unlocs": [
       "SYLTK"
-    ]
+    ],
+    "code": "50215"
   },
   "SYTTS": {
     "name": "Tartus",
@@ -22024,7 +22423,8 @@
     "timezone": "Asia/Damascus",
     "unlocs": [
       "SYTTS"
-    ]
+    ],
+    "code": "50220"
   },
   "TCPLS": {
     "name": "Providenciales",
@@ -22276,7 +22676,8 @@
     "timezone": "Asia/Bangkok",
     "unlocs": [
       "THSRI"
-    ]
+    ],
+    "code": "54905"
   },
   "THTPT": {
     "name": "Thai prosperity terminal",
@@ -22365,7 +22766,8 @@
     "timezone": "Africa/Tunis",
     "unlocs": [
       "TNSFA"
-    ]
+    ],
+    "code": "72337"
   },
   "TNSUS": {
     "name": "Sousse",
@@ -22480,7 +22882,8 @@
     "timezone": "Europe/Istanbul",
     "unlocs": [
       "TRAYT"
-    ]
+    ],
+    "code": "48903"
   },
   "TRBAY": {
     "name": "Bayrampasa",
@@ -22579,7 +22982,8 @@
     "timezone": "Europe/Istanbul",
     "unlocs": [
       "TRHAY"
-    ]
+    ],
+    "code": "48999"
   },
   "TRHER": {
     "name": "Hereke",
@@ -22611,7 +23015,8 @@
     "timezone": "Europe/Istanbul",
     "unlocs": [
       "TRISK"
-    ]
+    ],
+    "code": "48931"
   },
   "TRIST": {
     "name": "Istanbul",
@@ -22627,7 +23032,8 @@
     "timezone": "Europe/Istanbul",
     "unlocs": [
       "TRIST"
-    ]
+    ],
+    "code": "48945"
   },
   "TRIZM": {
     "name": "Izmir",
@@ -22725,7 +23131,8 @@
     "timezone": "Europe/Istanbul",
     "unlocs": [
       "TRMER"
-    ]
+    ],
+    "code": "48938"
   },
   "TRNEM": {
     "name": "Nemrut Bay",
@@ -22741,7 +23148,8 @@
     "timezone": "Europe/Istanbul",
     "unlocs": [
       "TRNEM"
-    ]
+    ],
+    "code": "48915"
   },
   "TRSSX": {
     "name": "Samsun",
@@ -22774,7 +23182,8 @@
     "timezone": "Europe/Istanbul",
     "unlocs": [
       "TRTEK"
-    ]
+    ],
+    "code": "48999"
   },
   "TRTZX": {
     "name": "Trabzon",
@@ -22790,7 +23199,8 @@
     "timezone": "Europe/Istanbul",
     "unlocs": [
       "TRTZX"
-    ]
+    ],
+    "code": "48999"
   },
   "TRYAR": {
     "name": "Yarimca",
@@ -22806,7 +23216,8 @@
     "timezone": "Europe/Istanbul",
     "unlocs": [
       "TRYAR"
-    ]
+    ],
+    "code": "48999"
   },
   "TTPOS": {
     "name": "Port-of-Spain",
@@ -22822,7 +23233,8 @@
     "timezone": "America/Port_of_Spain",
     "unlocs": [
       "TTPOS"
-    ]
+    ],
+    "code": "27431"
   },
   "TTPTP": {
     "name": "Pointe a Pierre",
@@ -22838,7 +23250,8 @@
     "timezone": "America/Port_of_Spain",
     "unlocs": [
       "TTPTP"
-    ]
+    ],
+    "code": "27415"
   },
   "TTPTS": {
     "name": "Point Lisas",
@@ -22854,7 +23267,8 @@
     "timezone": "America/Port_of_Spain",
     "unlocs": [
       "TTPTS"
-    ]
+    ],
+    "code": "27425"
   },
   "TTSFE": {
     "name": "San Fernando",
@@ -22870,7 +23284,8 @@
     "timezone": "America/Port_of_Spain",
     "unlocs": [
       "TTSFE"
-    ]
+    ],
+    "code": "27443"
   },
   "TWKEL": {
     "name": "Keelung (Chilung)",
@@ -22885,7 +23300,8 @@
     "timezone": "Asia/Taipei",
     "unlocs": [
       "TWKEL"
-    ]
+    ],
+    "code": "58301"
   },
   "TWKHH": {
     "name": "Kaohsiung",
@@ -22932,7 +23348,8 @@
     "timezone": "Asia/Taipei",
     "unlocs": [
       "TWSUO"
-    ]
+    ],
+    "code": "58302"
   },
   "TWTPE": {
     "country": "Taiwan",
@@ -22943,7 +23360,8 @@
     "regions": [],
     "unlocs": [
       "TWTPE"
-    ]
+    ],
+    "code": "58304"
   },
   "TWTXG": {
     "name": "Taichung",
@@ -22959,7 +23377,8 @@
     "timezone": "Asia/Taipei",
     "unlocs": [
       "TWTXG"
-    ]
+    ],
+    "code": "58303"
   },
   "TWTYN": {
     "name": "Taoyuan",
@@ -23088,7 +23507,8 @@
     "timezone": "Europe/Kiev",
     "unlocs": [
       "UAMPW"
-    ]
+    ],
+    "code": "46276"
   },
   "UAODS": {
     "name": "Odessa",
@@ -23104,7 +23524,8 @@
     "timezone": "Europe/Kiev",
     "unlocs": [
       "UAODS"
-    ]
+    ],
+    "code": "46275"
   },
   "UASVP": {
     "name": "Sevastopol",
@@ -23120,7 +23541,8 @@
     "timezone": "Europe/Simferopol",
     "unlocs": [
       "UASVP"
-    ]
+    ],
+    "code": "46279"
   },
   "UGJIN": {
     "name": "Jinja",
@@ -23168,7 +23590,8 @@
     "timezone": "America/Anchorage",
     "unlocs": [
       "USADQ"
-    ]
+    ],
+    "code": "3127"
   },
   "USANC": {
     "name": "Anchorage",
@@ -23184,7 +23607,8 @@
     "timezone": "America/Anchorage",
     "unlocs": [
       "USANC"
-    ]
+    ],
+    "code": "3126"
   },
   "USANP": {
     "name": "Annapolis",
@@ -23200,7 +23624,8 @@
     "timezone": "America/New_York",
     "unlocs": [
       "USANP"
-    ]
+    ],
+    "code": "1301"
   },
   "USAR5": {
     "timezone": "America/Chicago",
@@ -23232,7 +23657,8 @@
     "timezone": "America/New_York",
     "unlocs": [
       "USATL"
-    ]
+    ],
+    "code": "1704"
   },
   "USBAL": {
     "name": "Baltimore",
@@ -23248,7 +23674,8 @@
     "timezone": "America/New_York",
     "unlocs": [
       "USBAL"
-    ]
+    ],
+    "code": "1303"
   },
   "USBCC": {
     "name": "Bear Creek",
@@ -23280,7 +23707,8 @@
     "timezone": "America/Chicago",
     "unlocs": [
       "USBNA"
-    ]
+    ],
+    "code": "2007"
   },
   "USBOS": {
     "name": "Boston",
@@ -23296,7 +23724,8 @@
     "timezone": "America/New_York",
     "unlocs": [
       "USBOS"
-    ]
+    ],
+    "code": "0401"
   },
   "USBPT": {
     "name": "Beaumont",
@@ -23312,7 +23741,8 @@
     "timezone": "America/Chicago",
     "unlocs": [
       "USBPT"
-    ]
+    ],
+    "code": "2104"
   },
   "USBRO": {
     "name": "Brownsville",
@@ -23328,7 +23758,8 @@
     "timezone": "America/Chicago",
     "unlocs": [
       "USBRO"
-    ]
+    ],
+    "code": "2301"
   },
   "USBUF": {
     "name": "Buffalo",
@@ -23360,7 +23791,8 @@
     "timezone": "America/New_York",
     "unlocs": [
       "USCHA"
-    ]
+    ],
+    "code": "2008"
   },
   "USCHI": {
     "name": "Chicago",
@@ -23376,7 +23808,8 @@
     "timezone": "America/Chicago",
     "unlocs": [
       "USCHI"
-    ]
+    ],
+    "code": "3901"
   },
   "USCHS": {
     "name": "Charleston",
@@ -23392,7 +23825,8 @@
     "timezone": "America/New_York",
     "unlocs": [
       "USCHS"
-    ]
+    ],
+    "code": "1601"
   },
   "USCLE": {
     "name": "Cleveland",
@@ -23424,7 +23858,8 @@
     "timezone": "America/Los_Angeles",
     "unlocs": [
       "USCLM"
-    ]
+    ],
+    "code": "3007"
   },
   "USCLT": {
     "name": "Charlotte",
@@ -23440,7 +23875,8 @@
     "timezone": "America/New_York",
     "unlocs": [
       "USCLT"
-    ]
+    ],
+    "code": "1512"
   },
   "USCMH": {
     "name": "Columbus",
@@ -23488,7 +23924,8 @@
     "timezone": "America/Chicago",
     "unlocs": [
       "USCRP"
-    ]
+    ],
+    "code": "5312"
   },
   "USCVG": {
     "name": "Cincinnati",
@@ -23584,7 +24021,8 @@
     "timezone": "America/Denver",
     "unlocs": [
       "USDEN"
-    ]
+    ],
+    "code": "3307"
   },
   "USDET": {
     "name": "Detroit",
@@ -23600,7 +24038,8 @@
     "timezone": "America/Toronto",
     "unlocs": [
       "USDET"
-    ]
+    ],
+    "code": "3801"
   },
   "USDNN": {
     "name": "Dalton",
@@ -23632,7 +24071,8 @@
     "timezone": "America/Chicago",
     "unlocs": [
       "USDSM"
-    ]
+    ],
+    "code": "3513"
   },
   "USDUT": {
     "name": "Dutch Harbor",
@@ -23664,7 +24104,8 @@
     "timezone": "America/Denver",
     "unlocs": [
       "USELP"
-    ]
+    ],
+    "code": "2402"
   },
   "USENA": {
     "name": "Kenai",
@@ -23712,7 +24153,8 @@
     "timezone": "America/New_York",
     "unlocs": [
       "USFEB"
-    ]
+    ],
+    "code": "1805"
   },
   "USFLL": {
     "name": "Fort Lauderdale",
@@ -23744,7 +24186,8 @@
     "timezone": "America/Chicago",
     "unlocs": [
       "USFPO"
-    ]
+    ],
+    "code": "5311"
   },
   "USFRP": {
     "name": "Fresh Water Bay",
@@ -23792,7 +24235,8 @@
     "timezone": "America/Chicago",
     "unlocs": [
       "USGLS"
-    ]
+    ],
+    "code": "5310"
   },
   "USGPT": {
     "name": "Gulfport",
@@ -23808,7 +24252,8 @@
     "timezone": "America/Chicago",
     "unlocs": [
       "USGPT"
-    ]
+    ],
+    "code": "1902"
   },
   "USHNL": {
     "name": "Honolulu",
@@ -23824,7 +24269,8 @@
     "timezone": "Pacific/Honolulu",
     "unlocs": [
       "USHNL"
-    ]
+    ],
+    "code": "3201"
   },
   "USHOU": {
     "name": "Houston",
@@ -23840,7 +24286,8 @@
     "timezone": "America/Chicago",
     "unlocs": [
       "USHOU"
-    ]
+    ],
+    "code": "5301"
   },
   "USHSV": {
     "name": "Huntsville",
@@ -23856,7 +24303,8 @@
     "timezone": "America/Chicago",
     "unlocs": [
       "USHSV"
-    ]
+    ],
+    "code": "1910"
   },
   "USILM": {
     "name": "Wilmington",
@@ -23872,7 +24320,8 @@
     "timezone": "America/New_York",
     "unlocs": [
       "USILM"
-    ]
+    ],
+    "code": "1501"
   },
   "USIND": {
     "name": "Indianapolis",
@@ -23920,7 +24369,8 @@
     "timezone": "America/New_York",
     "unlocs": [
       "USJAX"
-    ]
+    ],
+    "code": "1803"
   },
   "USKCK": {
     "name": "Kansas City",
@@ -23952,7 +24402,8 @@
     "timezone": "America/Los_Angeles",
     "unlocs": [
       "USLAS"
-    ]
+    ],
+    "code": "2722"
   },
   "USLAT": {
     "timezone": "America/Los_Angeles",
@@ -23986,7 +24437,8 @@
     "timezone": "America/Los_Angeles",
     "unlocs": [
       "USLAX"
-    ]
+    ],
+    "code": "2704"
   },
   "USLCH": {
     "name": "Lake Charles",
@@ -24002,7 +24454,8 @@
     "timezone": "America/Chicago",
     "unlocs": [
       "USLCH"
-    ]
+    ],
+    "code": "2017"
   },
   "USLGB": {
     "name": "Long Beach",
@@ -24039,7 +24492,8 @@
     "timezone": "America/Chicago",
     "unlocs": [
       "USLRD"
-    ]
+    ],
+    "code": "2304"
   },
   "USLUI": {
     "name": "Louisville",
@@ -24071,7 +24525,8 @@
     "timezone": "America/Chicago",
     "unlocs": [
       "USMEM"
-    ]
+    ],
+    "code": "2006"
   },
   "USMES": {
     "name": "Minneapolis",
@@ -24103,7 +24558,8 @@
     "timezone": "America/New_York",
     "unlocs": [
       "USMIA"
-    ]
+    ],
+    "code": "5201"
   },
   "USMKC": {
     "name": "Kansas City",
@@ -24135,7 +24591,8 @@
     "timezone": "America/Chicago",
     "unlocs": [
       "USMKE"
-    ]
+    ],
+    "code": "3701"
   },
   "USMOB": {
     "name": "Mobile",
@@ -24151,7 +24608,8 @@
     "timezone": "America/Chicago",
     "unlocs": [
       "USMOB"
-    ]
+    ],
+    "code": "1901"
   },
   "USMRH": {
     "name": "Morehead City",
@@ -24199,7 +24657,8 @@
     "timezone": "America/Chicago",
     "unlocs": [
       "USMSY"
-    ]
+    ],
+    "code": "2002"
   },
   "USNNS": {
     "name": "Newport News",
@@ -24231,7 +24690,8 @@
     "timezone": "America/Los_Angeles",
     "unlocs": [
       "USNTD"
-    ]
+    ],
+    "code": "2713"
   },
   "USNTS": {
     "name": "North Charleston",
@@ -24263,7 +24723,8 @@
     "timezone": "America/New_York",
     "unlocs": [
       "USNYC"
-    ]
+    ],
+    "code": "1001"
   },
   "USOAK": {
     "name": "Oakland",
@@ -24279,7 +24740,8 @@
     "timezone": "America/Chicago",
     "unlocs": [
       "USOAK"
-    ]
+    ],
+    "code": "2811"
   },
   "USOCN": {
     "name": "Oceanside",
@@ -24327,7 +24789,8 @@
     "timezone": "America/Los_Angeles",
     "unlocs": [
       "USOLM"
-    ]
+    ],
+    "code": "3026"
   },
   "USOMA": {
     "name": "Omaha",
@@ -24343,7 +24806,8 @@
     "timezone": "America/Chicago",
     "unlocs": [
       "USOMA"
-    ]
+    ],
+    "code": "3512"
   },
   "USORF": {
     "name": "Norfolk",
@@ -24375,7 +24839,8 @@
     "timezone": "America/New_York",
     "unlocs": [
       "USORL"
-    ]
+    ],
+    "code": "1808"
   },
   "USOYM": {
     "name": "Otay Mesa",
@@ -24391,7 +24856,8 @@
     "timezone": "America/Los_Angeles",
     "unlocs": [
       "USOYM"
-    ]
+    ],
+    "code": "2506"
   },
   "USPAB": {
     "name": "Palm Beach",
@@ -24440,7 +24906,7 @@
     "unlocs": [
       "USPDX"
     ],
-    "code": "60261"
+    "code": "2904"
   },
   "USPEB": {
     "name": "Port Elizabeth",
@@ -24472,7 +24938,8 @@
     "timezone": "America/New_York",
     "unlocs": [
       "USPEF"
-    ]
+    ],
+    "code": "5203"
   },
   "USPFN": {
     "name": "Panama City",
@@ -24488,7 +24955,8 @@
     "timezone": "America/Chicago",
     "unlocs": [
       "USPFN"
-    ]
+    ],
+    "code": "1818"
   },
   "USPGL": {
     "name": "Pascagoula",
@@ -24504,7 +24972,8 @@
     "timezone": "America/Chicago",
     "unlocs": [
       "USPGL"
-    ]
+    ],
+    "code": "1903"
   },
   "USPHF": {
     "name": "Hampton-Williamsburg-Newport News Apt",
@@ -24536,7 +25005,8 @@
     "timezone": "America/New_York",
     "unlocs": [
       "USPHL"
-    ]
+    ],
+    "code": "1101"
   },
   "USPHX": {
     "name": "Phoenix",
@@ -24552,7 +25022,8 @@
     "timezone": "America/Phoenix",
     "unlocs": [
       "USPHX"
-    ]
+    ],
+    "code": "2605"
   },
   "USPIA": {
     "name": "Peoria",
@@ -24568,7 +25039,8 @@
     "timezone": "America/Chicago",
     "unlocs": [
       "USPIA"
-    ]
+    ],
+    "code": "3902"
   },
   "USPIT": {
     "name": "Pittsburgh",
@@ -24584,7 +25056,8 @@
     "timezone": "America/New_York",
     "unlocs": [
       "USPIT"
-    ]
+    ],
+    "code": "1104"
   },
   "USPME": {
     "name": "Port Manatee",
@@ -24600,7 +25073,8 @@
     "timezone": "America/New_York",
     "unlocs": [
       "USPME"
-    ]
+    ],
+    "code": "1821"
   },
   "USPNS": {
     "name": "Pensacola",
@@ -24616,7 +25090,8 @@
     "timezone": "America/Chicago",
     "unlocs": [
       "USPNS"
-    ]
+    ],
+    "code": "1819"
   },
   "USPOA": {
     "name": "Port Arthur",
@@ -24632,7 +25107,8 @@
     "timezone": "America/Chicago",
     "unlocs": [
       "USPOA"
-    ]
+    ],
+    "code": "2101"
   },
   "USPPS": {
     "name": "Pennsauken",
@@ -24696,7 +25172,8 @@
     "timezone": "America/New_York",
     "unlocs": [
       "USPVD"
-    ]
+    ],
+    "code": "0502"
   },
   "USPWM": {
     "name": "Portland",
@@ -24712,7 +25189,8 @@
     "timezone": "America/New_York",
     "unlocs": [
       "USPWM"
-    ]
+    ],
+    "code": "0101"
   },
   "USPWN": {
     "name": "Port Wentworth",
@@ -24744,7 +25222,8 @@
     "timezone": "America/New_York",
     "unlocs": [
       "USPYM"
-    ]
+    ],
+    "code": "0406"
   },
   "USRAJ": {
     "timezone": "America/New_York",
@@ -24824,7 +25303,8 @@
     "timezone": "America/Los_Angeles",
     "unlocs": [
       "USSAN"
-    ]
+    ],
+    "code": "2501"
   },
   "USSAV": {
     "name": "Savannah",
@@ -24840,7 +25320,8 @@
     "timezone": "America/New_York",
     "unlocs": [
       "USSAV"
-    ]
+    ],
+    "code": "1703"
   },
   "USSCK": {
     "name": "Stockton",
@@ -24856,7 +25337,8 @@
     "timezone": "America/Los_Angeles",
     "unlocs": [
       "USSCK"
-    ]
+    ],
+    "code": "2810"
   },
   "USSEA": {
     "name": "Seattle",
@@ -24874,7 +25356,8 @@
     "timezone": "America/Los_Angeles",
     "unlocs": [
       "USSEA"
-    ]
+    ],
+    "code": "3001"
   },
   "USSFO": {
     "name": "San Francisco",
@@ -24890,7 +25373,8 @@
     "timezone": "America/Los_Angeles",
     "unlocs": [
       "USSFO"
-    ]
+    ],
+    "code": "2809"
   },
   "USSLC": {
     "name": "Salt Lake City",
@@ -24906,7 +25390,8 @@
     "timezone": "America/Denver",
     "unlocs": [
       "USSLC"
-    ]
+    ],
+    "code": "3303"
   },
   "USSPT": {
     "name": "South Saint Paul",
@@ -24938,7 +25423,8 @@
     "timezone": "America/New_York",
     "unlocs": [
       "USSSI"
-    ]
+    ],
+    "code": "1701"
   },
   "USSTL": {
     "name": "Saint Louis",
@@ -25052,7 +25538,8 @@
     "timezone": "America/Los_Angeles",
     "unlocs": [
       "USTIW"
-    ]
+    ],
+    "code": "3002"
   },
   "USTMM": {
     "timezone": "America/Chicago",
@@ -25100,7 +25587,8 @@
     "timezone": "America/New_York",
     "unlocs": [
       "USTPA"
-    ]
+    ],
+    "code": "1801"
   },
   "USTSA": {
     "timezone": "America/Chicago",
@@ -25132,7 +25620,8 @@
     "timezone": "America/Chicago",
     "unlocs": [
       "USTUL"
-    ]
+    ],
+    "code": "5505"
   },
   "USUGN": {
     "name": "Waukegan",
@@ -25275,7 +25764,8 @@
     "timezone": "America/Montevideo",
     "unlocs": [
       "UYCYR"
-    ]
+    ],
+    "code": "35500"
   },
   "UYMVD": {
     "name": "Montevideo",
@@ -25308,7 +25798,8 @@
     "timezone": "America/Montevideo",
     "unlocs": [
       "UYNVP"
-    ]
+    ],
+    "code": "35535"
   },
   "UYPDU": {
     "name": "Paysandu",
@@ -25324,7 +25815,8 @@
     "timezone": "America/Montevideo",
     "unlocs": [
       "UYPDU"
-    ]
+    ],
+    "code": "35500"
   },
   "VCKTN": {
     "name": "Kingstown",
@@ -25436,7 +25928,8 @@
     "timezone": "America/Caracas",
     "unlocs": [
       "VEGUT"
-    ]
+    ],
+    "code": "30741"
   },
   "VELAG": {
     "name": "La Guaira",
@@ -25452,7 +25945,8 @@
     "timezone": "America/Caracas",
     "unlocs": [
       "VELAG"
-    ]
+    ],
+    "code": "30745"
   },
   "VELSV": {
     "name": "La Salina/Maracaibo L",
@@ -25501,7 +25995,8 @@
     "timezone": "America/Caracas",
     "unlocs": [
       "VEMTV"
-    ]
+    ],
+    "code": "30760"
   },
   "VEPBL": {
     "name": "Puerto Cabello",
@@ -25551,7 +26046,8 @@
     "timezone": "America/Caracas",
     "unlocs": [
       "VEPSU"
-    ]
+    ],
+    "code": "30769"
   },
   "VEPZO": {
     "name": "Puerto Ordaz",
@@ -25616,7 +26112,8 @@
     "timezone": "America/St_Thomas",
     "unlocs": [
       "VICHA"
-    ]
+    ],
+    "code": "91155"
   },
   "VICTD": {
     "name": "Christiansted, Saint Croix",
@@ -25632,7 +26129,8 @@
     "timezone": "America/St_Thomas",
     "unlocs": [
       "VICTD"
-    ]
+    ],
+    "code": "91115"
   },
   "VISTT": {
     "name": "Saint Thomas",
@@ -25648,7 +26146,8 @@
     "timezone": "America/St_Thomas",
     "unlocs": [
       "VISTT"
-    ]
+    ],
+    "code": "91155"
   },
   "VISTX": {
     "name": "Saint Croix",
@@ -25664,7 +26163,8 @@
     "timezone": "America/St_Thomas",
     "unlocs": [
       "VISTX"
-    ]
+    ],
+    "code": "91149"
   },
   "VNCLI": {
     "name": "Cat Lai",
@@ -25729,7 +26229,8 @@
     "timezone": "Asia/Saigon",
     "unlocs": [
       "VNHPH"
-    ]
+    ],
+    "code": "55201"
   },
   "VNNHA": {
     "name": "Nha Trang",
@@ -25859,7 +26360,8 @@
     "timezone": "Asia/Saigon",
     "unlocs": [
       "VNVIC"
-    ]
+    ],
+    "code": "55224"
   },
   "VNVUT": {
     "name": "Vung Tau",
@@ -25907,7 +26409,8 @@
     "timezone": "Pacific/Efate",
     "unlocs": [
       "VUVLI"
-    ]
+    ],
+    "code": "62209"
   },
   "WSAPW": {
     "name": "Apia",
@@ -25957,7 +26460,8 @@
     "timezone": "Asia/Aden",
     "unlocs": [
       "YEHOD"
-    ]
+    ],
+    "code": "52115"
   },
   "YELAD": {
     "name": "Little Aden",
@@ -25973,7 +26477,8 @@
     "timezone": "Asia/Aden",
     "unlocs": [
       "YELAD"
-    ]
+    ],
+    "code": "52101"
   },
   "YEMKX": {
     "name": "Mukalla",
@@ -25989,7 +26494,8 @@
     "timezone": "Asia/Aden",
     "unlocs": [
       "YEMKX"
-    ]
+    ],
+    "code": "52100"
   },
   "YTLON": {
     "name": "Longoni",
@@ -26104,7 +26610,8 @@
     "timezone": "Africa/Johannesburg",
     "unlocs": [
       "ZAPLZ"
-    ]
+    ],
+    "code": "79145"
   },
   "ZAPRY": {
     "name": "Pretoria",
