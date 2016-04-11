@@ -1,0 +1,39 @@
+{
+  "name": "cbp-ports",
+  "version": "0.0.1",
+  "main": "./index.js",
+  "description": "JSON Data CBP Ports",
+  "scripts": {
+    "test": "NODE_ENV=test NODE_PATH=./test node ./node_modules/mocha/bin/mocha --harmony "
+  },
+  "keywords": [
+    "cbp",
+    "port",
+    "code",
+    "unloc",
+    "json"
+  ],
+  "author": "marchah <marchah.dev@gmail.com>",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "eslint": "^2.5.3",
+    "lodash": "^4.9.0",
+    "mocha": "^2.4.5",
+    "rewire": "^2.5.1"
+  },
+  "engines": {
+    "node": ">=4.1.0",
+    "iojs": ">= 2.4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/marchah/cbp-ports.git"
+  },
+  "bugs": {
+    "url": "https://github.com/marchah/cbp-ports/issues"
+  },
+  "homepage": "https://github.com/marchah/cbp-ports",
+  "license": "MIT"
+}
