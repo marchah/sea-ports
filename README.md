@@ -73,6 +73,12 @@ Return a JSON object with all the port with the unloc as key
 }
 ```
 
+## Methods
+
+### getByUnloc(unloc)
+
+Return the matched port, else undefined (alias: getByUNLOC, findByUnloc, findByUNLOC)
+
 ## Examples
 
 ````javascript
