@@ -77,7 +77,7 @@ Return a JSON object with all the port with the unloc as key
 
 ### getByUnloc(unloc)
 
-Return the matched port, else undefined (alias: getByUNLOC, findByUnloc, findByUNLOC)
+Return the matched port, else undefined (alias: `getByUNLOC`, `findByUnloc`, `findByUNLOC`)
 
 ## Examples
 
