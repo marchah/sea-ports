@@ -112,7 +112,7 @@ console.log(ports.JSON);
 ## Contributing
 
 This project is a work in progress and subject to API changes.
-A lot of port's codes are missing (339/1624).
+A lot of port's codes are missing (338/1624).
 Some data may be wrong, feel free to correct them.
 Also I plan on adding couple functions to search ports.
 
