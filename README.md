@@ -1,12 +1,12 @@
-# cbp-ports
-CBP JSON Data Ports
+# sea-ports
+Sea Ports JSON Data
 
 ## Installation
 
 Install via [npm](https://www.npmjs.com/):
 
 ```
-$ npm install cbp-ports
+$ npm install sea-ports
 ```
 
 ## Documentation
@@ -82,7 +82,7 @@ Return the matched port, else undefined (alias: `getByUNLOC`, `findByUnloc`, `fi
 ## Examples
 
 ````javascript
-var ports = require('cbp-ports');
+var ports = require('sea-ports');
 
 console.log(ports.JSON);
 /*

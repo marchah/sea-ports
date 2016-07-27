@@ -1,14 +1,16 @@
 {
-  "name": "cbp-ports",
+  "name": "sea-ports",
   "version": "0.0.6",
   "main": "./index.js",
-  "description": "JSON Data CBP Ports",
+  "description": "Sea Ports JSON Data",
   "scripts": {
     "test": "NODE_ENV=test NODE_PATH=./test node ./node_modules/mocha/bin/mocha --harmony "
   },
   "keywords": [
     "cbp",
+    "sea",
     "port",
+    "seaport",
     "code",
     "unloc",
     "json"
@@ -28,11 +30,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/marchah/cbp-ports.git"
+    "url": "git://github.com/marchah/sea-ports.git"
   },
   "bugs": {
-    "url": "https://github.com/marchah/cbp-ports/issues"
+    "url": "https://github.com/marchah/sea-ports/issues"
   },
-  "homepage": "https://github.com/marchah/cbp-ports",
+  "homepage": "https://github.com/marchah/sea-ports",
   "license": "MIT"
 }
