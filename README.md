@@ -15,7 +15,7 @@ $ npm install sea-ports
 
 #### `JSON`
 
-Return a JSON object with all the port with the unloc as key
+Return a JSON object with all the ports with the unloc as key
 ```javascript
 {
   "AEAJM": {
