@@ -1,4 +1,5 @@
 {
+  [
   "AEAJM": {
     "name": "Ajman",
     "city": "Ajman",
@@ -15,7 +16,7 @@
       "AEAJM"
     ],
     "code": "52000"
-  },
+    },
   "AEAUH": {
     "name": "Abu Dhabi",
     "coordinates": [
@@ -27243,4 +27244,5 @@
       "ZWUTA"
     ]
   }
+]
 }
