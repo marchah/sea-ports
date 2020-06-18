@@ -1,6 +1,8 @@
 # sea-ports
 Sea Ports JSON Data
 
+*Be aware the GPS coordinates are not all correct*
+
 ## Installation
 
 Install via [npm](https://www.npmjs.com/):
