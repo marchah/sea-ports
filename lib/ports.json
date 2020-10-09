@@ -13030,6 +13030,23 @@
     ],
     "code": "53398"
   },
+  "INKAK": {
+    "name": "Kakinada",
+    "city": "Kakinada",
+    "province": "Andhra Pradesh",
+    "country": "India",
+    "alias": [],
+    "regions": [],
+    "coordinates": [
+      82.2475,
+      16.9891
+    ],
+    "timezone": "Asia/Calcutta",
+    "unlocs": [
+      "INAGR"
+    ],
+    "code": "53398"
+  },
   "INAMD": {
     "name": "Ahmedabad",
     "coordinates": [
