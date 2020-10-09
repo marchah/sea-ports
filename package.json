@@ -1,6 +1,6 @@
 {
   "name": "sea-ports",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "main": "./index.js",
   "description": "Sea Ports JSON Data",
   "scripts": {
