@@ -25391,6 +25391,22 @@
       "USPCA"
     ]
   },
+  "USPCV": {
+    "name": "Port Canaveral",
+    "city": "Brevard County",
+    "province": "Florida",
+    "country": "United States",
+    "alias": [],
+    "regions": [],
+    "coordinates": [
+      -80.36,
+      28.24
+    ],
+    "timezone": "America/New_York",
+    "unlocs": [
+      "USPCV"
+    ]
+  },
   "USPDX": {
     "name": "Portland",
     "city": "Portland",
